@@ -114,6 +114,7 @@
         <div class="contact-form-title">
           <h3>Formulario.</h3>
         </div>
+
         <div class="contact-form-input">
           <form id="contact-form" action="{{ .Site.Params.fabformURL }}" method="POST">
 
@@ -122,11 +123,13 @@
               <div class="form-group col-md-6 pr-3">
                 <input type="text" class="form-control" name="Name" placeholder="Nombre & Apellido" required />
               </div>
+
               <div class="form-group col-md-6">
                 <input type="email" class="form-control" name="email" placeholder="Correo Electrónico" required />
               </div>
-            </div>
 
+            </div>
+            
             <div class="form-group">
               <textarea class="form-control" id="message" rows="6" name="message" placeholder="Mensaje"></textarea>
             </div>
