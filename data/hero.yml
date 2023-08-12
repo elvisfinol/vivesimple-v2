@@ -1,12 +1,11 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Hola, soy Mica.
 content: >
-  # I am here for your personal business
+  # Lorem ipsum dolor sit amet.
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+buttonName: Contáctame
 buttonURL: contact
 image: images/hero/2960351.jpg
 videoThumb: images/hero/popup-thumb.png
