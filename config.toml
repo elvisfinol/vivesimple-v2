@@ -16,6 +16,12 @@ url = "#about"
 weight = 2
 
 [[menu.main]]
+name = "Nosotros"
+url = "#nosotros"
+weight = 2
+
+
+[[menu.main]]
 name = "Servicios"
 url = "#service"
 weight = 3
@@ -45,10 +51,10 @@ name = "Testimonios"
 url = "#testimonial"
 weight = 5
 
-[[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 6
+## [[menu.main]]
+## name = "Contacto"
+## url = "#contact"
+## weight = 6
 
 # Sitemap Menu
 [[menu.sitemap]]
@@ -71,7 +77,7 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+copyright = "All right reserved copyright © Vive Simple 2023"
 footerLogo = "images/contact/widget-logo.png"
 
 # We're using formspree.io for form handling, paste your formspree url below

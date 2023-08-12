@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jazzy-bienenstitch-c301bd.netlify.app/blog/</loc>
+    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+  </url><url>
     <loc>https://jazzy-bienenstitch-c301bd.netlify.app/categories/blog/</loc>
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
   </url><url>
@@ -9,9 +12,6 @@
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
   </url><url>
     <loc>https://jazzy-bienenstitch-c301bd.netlify.app/blog/markdown-formatting-demo/</loc>
-    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>https://jazzy-bienenstitch-c301bd.netlify.app/blog/</loc>
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
   </url><url>
     <loc>https://jazzy-bienenstitch-c301bd.netlify.app/tags/</loc>

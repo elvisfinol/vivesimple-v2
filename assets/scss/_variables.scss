@@ -3,10 +3,10 @@
 //
 
 // General
-$primary: #0099ff;
+$primary: #299452;
 $secondary: #000000;
 // Text
-$headings-color: #282f49;
+$headings-color: #5344a7b2;
 $body-color: #000000;
 
 //
@@ -14,9 +14,9 @@ $body-color: #000000;
 //
 
 // Fonts
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900|Yeseva+One&display=swap");
-$font-family-base: "Poppins", sans-serif;
-$headings-font-family: "Yeseva One", cursive;
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap");
+$font-family-base: 'Raleway', sans-serif;
+$headings-font-family: 'Raleway', sans-serif;
 
 // Size
 $font-size-base: 1.125rem; // 18px
