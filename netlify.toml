@@ -4,3 +4,4 @@
   
 [build.environment]
   HUGO_VERSION = "0.89.4"
+  HUGO_THEME = "portio"
