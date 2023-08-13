@@ -51,10 +51,10 @@ name = "Testimonios"
 url = "#testimonial"
 weight = 5
 
-## [[menu.main]]
-## name = "Contacto"
-## url = "#contact"
-## weight = 6
+[[menu.main]]
+name = "Contacto"
+url = "/contact"
+weight = 6
 
 # Sitemap Menu
 [[menu.sitemap]]
