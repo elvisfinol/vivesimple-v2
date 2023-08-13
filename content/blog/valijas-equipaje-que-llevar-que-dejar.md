@@ -1,0 +1,34 @@
+---
+title: "VALIJAS/EQUIPAJE - ¿Qué llevar? ¿Qué dejar? 🧳"
+date: 2021-09-04T09:40:00Z
+featureImage: images/allpost/valijas-que-llevar-que-dejar.png
+postImage: images/allpost/valijas-que-llevar-que-dejar.png
+tags: viajar, checklist, equipaje
+categories: tips
+---
+
+Armar valijas puede resultar más o menos complicado y estresante. Yo debo decir que desde que me mudé a Bs As, y empecé a viajar habitualmente, fui aprendiendo bastante a simplificar y organizar de la mejor forma mis valijas. Pero claro, no es lo mismo armar valijas para un viaje, que para emigrar. Y ese será mi primer gran consejo. No se confíen, como hicimos nosotros. Armar la valija para migrar, es un proceso más largo y complejo, que el habitual para cualquier viaje, y no es recomendable, según mi experiencia, hacerlo los últimos dos días. Conviene hacerlo con tiempo.
+
+**Nosotros llevamos:**
+
+* 3 valijas grandes (máx 23 kg), una la pagamos aparte, ya que solo teníamos incluída una por cada pasaje. Si consideran necesario agregar valija, no se olviden de hacerlo antes desde la web o por teléfono, no lo hagan en el aeropuerto porque es más caro. Además, si no llegan con el peso, en general conviene pagar valija extra más que exceso de equipaje, ya que 1 o 2 kilos de más se cobra en el aeropuerto casi al mismo precio que una valija completa.
+* 2 carry on. (max 10 kg)-recordar no poner ninguno de los elementos prohibidos para subir a cabina del avión. Igualmente, en tiempos de covid, las aerolíneas están dejando despachar todo el equipaje (incluso el carry on) sin costo extra. Como yo lo sabía de antemano, no dejé nada que pudiera necesitar durante el vuelo en estas valijas.
+* 2 mochilas medianas como bolso de mano, camperas y el equipo de mate.
+
+**_En este posteo les dejamos algunos tips y recomendaciones, que a nosotros nos sirvieron a la hora de preparar nuestro equipaje. Obviamente es algo muy personal y depende de las necesidades de cada uno. Pero hay algunos consejos generales que creo pueden ayudarles:_**
+
+ 1. Organizar y armar las valijas una semana antes por lo menos, no dejarlo para último momento. Porque lleva tiempo decidir qué llevar, que dejar y como acomodarlo para que entre lo más y mejor posible. En nuestro caso, las armamos y desarmamos varias veces, y hacerlo en los dos días previos, como hicimos nosotros, puede ser muy estresante.
+ 2. Respecto a la ropa y los zapatos, mi táctica fue solo llevar lo mejor que teníamos, la que nos gustaba, quedaba bien y usábamos regularmente. Lo demás lo regalamos y donamos todo. Nosotros llegamos en marzo de 2021, justo para cambio de estación, así que si bien trajimos para todas las temporadas, siguiendo ese concepto que les dije, no trajimos ropa de pleno invierno, ya que era la que más pesaba y es la estación que estaba terminando en España.
+ 3. Documentación: armé dos carpetas con toda la documentación para llevar, y también un sobre con los estudios y antecedentes médicos recientes.
+ 4. Remedios: traje un bolso con las cosas básicas de salud, remedios de uso crónico (para por lo menos 6 meses) y otros de uso habitual. Termómetro y oxímetro (incorporación estrella de nuestro botiquín durante la pandemia).
+ 5. Electrónica y electrodomésticos: trajimos nuestras computadoras, cámara de foto, disco duro, un pequeño parlante y cosas de electrónica pequeñas. Un buen consejo a considerar es traer zapatillas de enchufes y adaptador universal si tienen, ya que como sabrán acá los enchufes son distintos, y tener eso apenas llegas te soluciona mucho la vida.
+ 6. De cuidado personal, trajimos secador de pelo y planchita, y mi pareja su afeitadora/cortadora de pelo. Si bien, son cosas que acá se consiguen, incluso por mucho mejor precio que en Argentina, la verdad fueron de las pocas cosas que no vendimos, porque las usamos hasta último momento, y no traerlas implicaba la necesidad de comprarlas aquí en el corto plazo. Aunque haya buenos precios, también es real que al principio y hasta que uno se estabilice, evitar gastos innecesarios es fundamental. Si puedes hacerle un lugar en las valijas, creo que vale la pena. Igualmente son cosas que dependen de las costumbres y necesidades de cada uno.
+ 7. Extras: traje algunas cosas de valor sentimental que para mi eran más importante que la ropa incluso, como fotos, los imanes de la heladera que eran recuerdos de viajes, igual que llaveros que colecciono de ciudades y países. También un pequeño cuadrito y algún que otro elemento de decoración que me habían regalado para mi casa. No son cosas necesarias, pero sí valiosas emocionalmente y no pesaban mucho, ni ocupaban mucho lugar. Además traje una agenda, una libretita de anotaciones y algún librito pequeño. El resto de los libros tuvimos que dejarlos lamentablemente, ya que eso sí suma mucho peso.
+ 8. Equipo de mate: lo llevamos en su propio bolso de mate, termo, yerbera y azucarera, 3 mates con sus bombillas. Y trajimos 2 bolsitas de yerba de 500 g cada una (en España se consigue yerba facilmente). El bolso de mate lo lleve aparte, como un bulto de mano más y no tuvimos ningún inconveniente con eso.
+ 9. Respecto a la Organización de la valija: compramos bolsas de envasado al vacío, un gran tip. Importante obviamente esto no cambia el peso, pero sí ayuda a la organización y ahorrar espacio, entonces se lleva el máximo de equipaje sin una valija explotada. Además, así pudimos dividir la ropa de cada uno y por estaciones, lo cual nos facilitó mucho al momento de utilizarla, hasta que finalmente tuvimos nuestro espacio para acomodarnos.
+1.  También compramos algunos accesorios de organización de viaje (el organizador de electrónica, un necesaire para maquillajes y accesorios, un bolsito para productos de higiene y limpieza, y los organizadores de valija -sobres y bolsos - que nosotros los usamos para la ropa interior y los remedios).
+2.  Balanza de equipaje: otro gran consejo es tener o pedir prestado una balanza de equipaje, para el momento del armado del mismo. Eso ayuda mucho a evitar malos ratos en el aeropuerto.
+3.  Identificador y candado para las valijas: nosotros no envolvimos las valijas en film, aunque hay personas que lo recomiendan. Lo que sí hicimos fue ponerles candado e identificador a todas.
+4.  Último tip que sumaría, las semanas antes ir armando una lista (checklist) de todo lo que se quieren llevar, e ir completándola a medida se acerca la fecha. La intención es que al armar las valijas, usen esa lista de guía, así no se olvidan de nada.
+
+Ahora sí, cuéntenos, Qué les pareció? Ustedes que otras cosas trajeron? Tienen más tips o consejos al momento de armar las valijas? Los leemos!!!
