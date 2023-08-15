@@ -17,13 +17,13 @@ service:
       #### Asesoría General 
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a. 
-    image: images/service/web.svg
+    image: images/service/branding.svg
 
   - content: >
       #### Guía Trámite Paso a Paso
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a. 
-    image: images/service/creative.svg
+    image: images/service/branding.svg
 
   - content: >
       #### Mentoría Laboral
@@ -35,17 +35,17 @@ service:
       #### Gestoría de Trámites Extranjería (Visas / Residencias / Nacionaldad Española)
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a. 
-    image: images/service/ui-ux.svg
+    image: images/service/branding.svg
 
   - content: >
       #### Seguros Médicos Privados de España para Extranjería
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a. 
-    image: images/service/web.svg
+    image: images/service/branding.svg
 
   - content: >
       #### Búsqueda Completa de Vivienda en Madrid
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a. 
-    image: images/service/web.svg
+    image: images/service/branding.svg
 
