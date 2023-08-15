@@ -43,12 +43,12 @@
     &-inner {
       width: 55%;
       padding: 60px 50px;
-      background: #1b2031;
+      background: #6f6f6f;
       border-radius: 20px;
       margin-left: -60px;
       position: relative;
       @include desktop {
-        padding: 25px;
+        padding: 25px;  
       }
       @include desktop {
         width: 100%;
