@@ -11,7 +11,7 @@ service:
       #### Asesoría Express 
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a. 
-    image: images/service/ui-ux.svg
+    image: images/service/branding.svg
 
   - content: >
       #### Asesoría General 

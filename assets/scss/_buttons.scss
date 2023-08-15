@@ -11,7 +11,7 @@
 // Button Override
 .btn {
   display: inline-block;
-  padding: 15px 30px;
+  padding: 10px 10px;
   font-size: 16px;
   border-radius: 7px;
 }
@@ -31,7 +31,7 @@
   transition: all 0.1 s ease;
   transform: scale(1);
   &:hover {
-    box-shadow: 0 8px 20px rgb(45, 210, 212);
+    box-shadow: 0 8px 20px rgb(61, 214, 216);
     transform: scale(1.03);
   }
 }
