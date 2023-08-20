@@ -58,27 +58,30 @@ weight = 6
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
-url = "about"
-weight = 1
-[[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
+name = "Acerca de Mí"
+url = "#about"
 weight = 2
-[[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
-weight = 3
+
+# [[menu.sitemap]]
+# name = "Frequently Ask Question"
+# url = "#"
+# weight = 2
+
+# [[menu.sitemap]]
+# name = "Privacy & Policy"
+# url = "#"
+# weight = 3
+
 [[menu.sitemap]]
 name = "Latest Article"
-url = "#"
-weight = 4
+url = "/blog"
+weight = 3
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Vive Simple 2023"
-footerLogo = "images/contact/widget-logo.png"
+footerLogo = "images/site-navigation/logo.png"
 
 # We're using formspree.io for form handling, paste your formspree url below
 fabformURL  = "https://formspree.io/f/mrgwpaew"
@@ -104,16 +107,16 @@ url = "https://www.youtube.com/@ViveSimple"
 weight = 1
 
 [[params.social]]
-icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+icon = "fa-instagram"
+url = "https://www.instagram.com/vivesimple.me/"
 weight = 2
 
-## [[params.social]]
-## icon = "fa-pinterest-square"
-## url = "https://www.pinterest.com/"
-## weight = 3
+[[params.social]]
+icon = "fa-facebook-official"
+url = "https://www.facebook.com/profile.php?id=100085312506276"
+weight = 3
 
 [[params.social]]
-icon = "fa-instagram"
-url = "https://twitter.com/"
+icon = "fa-solid fa-envelope"
+url = "mailto:info.vivesimple@gmail.com"
 weight = 4

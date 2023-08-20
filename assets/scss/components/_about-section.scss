@@ -6,7 +6,7 @@
     justify-content: center;
     flex-wrap: wrap;
     &-thumb {
-      width: 45%;
+      width: 60%;
       position: relative;
       @include desktop {
         width: 100%;
@@ -31,6 +31,7 @@
         img {
           height: 100%;
           width: 100%;
+          border-radius: 2%;
           &.about_mask_svg {
             mask: url(../images/about/about-mask-svg.svg);
             -webkit-mask-repeat: no-repeat;
@@ -41,11 +42,12 @@
       }
     }
     &-inner {
-      width: 55%;
+      width: 100%;
+      margin-top: 50px;
       padding: 60px 50px;
-      background: #6f6f6f;
+      background: #457B9D;
       border-radius: 20px;
-      margin-left: -60px;
+      margin-left: 0px;
       position: relative;
       @include desktop {
         padding: 25px;  

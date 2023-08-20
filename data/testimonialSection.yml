@@ -7,27 +7,33 @@ title: >
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
-    # star: 5
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 16, 2020
-    # star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Mar 08, 2020
-    # star: 3
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
-    # star: 2
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 16, 2020
-    # star: 1
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Mar 08, 2020
-    # star: 0
+  - name: Laura M.
+    servicio: Asesoría Migratoria General
+    comment: La verdad, muy contenta con Micaela! Super atenta, clara y precisa. Me aclaró varias dudas, como así también me aconsejó y me hizo recomendaciones. Muy satisfecha con la asesoría, y además, la cita la tuve muy rápida.
+    time: 1 Junio, 2022
+    star: 5
+
+  - name: Paula O.
+    servicio: Taller | Tu Caja de Herramientas para Emigrar a España
+    comment: El taller estuvo genial. Fue lo que esperaba y mucho más. Juntar la faceta emocional con todo lo que necesitamos saber sobre trámites y plan migratorio fue una idea excelente. Me llevo mucho aprendizaje, muchas ideas para continuar armando mi plan de la mejor manera posible, y, sobre todo, el saber que no estamos solos, que siempre hay personas dispuestas a ayudar. Ale y Mica son dos expertas en este tema a las que recomendaría sin dudar, y por supuesto, recomendaría todo lo que hagan, como este taller.
+    time: 1 Abril, 2023
+    star: 5
+
+  - name: Facundo G.
+    servicio: Asesoría Migratoria General
+    comment: ¡Hola Mica! Quería compartirte que pudimos obtener el empadronamiento ayer y el DNI español hoy. Todo salió genial siguiendo los consejos que me diste sobre la hoja padronal según mi situación. Quiero agradecerte mucho por los consejos y por el seguimiento a lo largo de estos trámites. Fue un gran alivio salir de Argentina con toda la información clara.
+    time: 20 Agosto, 2022
+    star: 5
+
+  - name: Juan Carlos M.
+    servicio: Taller | Tu Caja de Herramientas para Emigrar a España
+    comment: Me inscribí sin estar seguro de cuánto podría beneficiarme. Ya he visto cientos de horas de videos y leído decenas de páginas sobre procesos migratorios. ¡Qué equivocado estaba! No se trata solo de la información y los ejercicios, sino también de la experiencia, la compañía y relacionarse con personas en la misma situación. Y luego está el valor añadido las energías y el ánimo que nos brindan Ale y Mica. No exagero al decir que pasaron varias horas y no me cansé. No es simplemente una acumulación de información abstracta, se convierte en algo real y tangible gracias a las participaciones que nos sugirieron constantemente. Una experiencia genuinamente agradable, y una que desearía que tuviera una segunda parte.
+    time: 1 Abril, 2023
+    star: 5
+
+  - name: Paula V.
+    servicio: Taller | Tu Caja de Herramientas para Emigrar a España
+    comment: Sin duda, fue una experiencia excelente. Las chicas son geniales, la manera en que presentan la información es amena. Realizamos actividades para comprender qué sentimientos estábamos experimentando con respecto a lo que estábamos discutiendo. Se tomaron el tiempo para escucharnos y valorar cada una de nuestras opiniones. Sin duda, llegamos con muchas dudas y miedos, pero salimos con calma y con la comprensión de que todo es un proceso. Lo recomiendo sin reservas. Anímense a asistir cuando hagan otra edición, ¡realmente vale la pena!
+    time: 1 Abril, 2023
+    star: 5
+

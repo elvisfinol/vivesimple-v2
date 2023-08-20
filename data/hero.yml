@@ -2,11 +2,21 @@
 enable: true
 topTitle: Hola, soy Mica.
 content: >
-  # Lorem ipsum dolor sit amet.
+  # Otra 🇦🇷🇮🇹 x el 🌎
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-buttonName: Contáctame
-buttonURL: contact
+
+  Migración, viajes, turismo y vida en Madrid, España📍
+
+#  - 📝 Info & Tips
+
+#  - 💼 Migración
+
+#  - ✈️ Viajes 
+
+#  - 🌍 Turismo & Lifestyle
+
+buttonName: Agendar Cita
+buttonURL: agendar
 image: images/hero/mica-perfil.JPG
 videoThumb: images/hero/popup-thumb.png
 videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

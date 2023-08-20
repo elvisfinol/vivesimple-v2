@@ -19,7 +19,12 @@
                         </div>
                         <div class="about_content-thumb-image">
                             <img src="{{ .image | absURL }}" alt="about-img"
-                                style='-webkit-mask: url({{"images/about/about-mask-svg.svg" | absURL}}); -webkit-mask-size: contain;'>
+                            style='
+                            -webkit-mask: url({{"images/hero/hero-mask-svg.png" | absURL }});
+                            -webkit-mask-repeat: no-repeat;
+                            -webkit-mask-size:  100%, 25%, 25%;     
+                            -webkit-mask-position: center center;
+                          ' />
                         </div>
                     </div>
                     <div class="about_content-inner">
