@@ -28,10 +28,10 @@
 }
 
 .btn-zoom {
-  transition: all 0.1 s ease;
+  transition: all 0.03 s ease;
   transform: scale(1);
   &:hover {
-    box-shadow: 0 8px 20px rgb(113, 180, 244);
-    transform: scale(1.03);
+    box-shadow: 0 8px 20px rgb(183, 183, 183);
+    transform: scale(1);
   }
 }
