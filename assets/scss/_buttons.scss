@@ -9,12 +9,12 @@
 // }
 
 // Button Override
-.btn {
-  display: inline-block;
-  padding: 10px 10px;
-  font-size: 16px;
-  border-radius: 7px;
-}
+// .btn {
+//   display: inline-block;
+//   padding: 10px 10px;
+//   font-size: 10px;
+//   border-radius: 11px;
+// }
 
 .btn-lg {
   padding: 20px 50px;
@@ -31,7 +31,7 @@
   transition: all 0.1 s ease;
   transform: scale(1);
   &:hover {
-    box-shadow: 0 8px 20px rgb(61, 214, 216);
+    box-shadow: 0 8px 20px rgb(113, 180, 244);
     transform: scale(1.03);
   }
 }
