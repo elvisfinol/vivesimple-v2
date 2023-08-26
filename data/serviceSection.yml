@@ -99,21 +99,20 @@ service:
     image: images/service/branding.svg
 
   - content: >
-      ### ***Seguros Médicos Privados de España para Extranjería*** ###
-      
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a. 
+      ### ***Servicios Adicionales - Con Profesionales en Colaboración*** ###
+
+      - Gestoría de Trámites de Extranjería:
+          - Visa, Residencia y Nacionalidad Española
+          - Consulta con un Abogado Especialista en Extranjería para presentación por profesional.
+
+      - Seguros Médicos Privados en España:
+          - Asesoramiento sobre distintos planes de seguros médicos privados.
+          - Colaboramos con profesionales agentes y mediadores de seguros médicos.
+
+      - Acompañamiento Psicológico durante el Proceso:
+          - Consulta con nuestros profesionales psicólogos para un apoyo emocional constante.
 
 
       ***Precio: 75 euros***
 
     image: images/service/branding.svg
-
-  - content: >
-      ### ***Búsqueda Completa de Vivienda en Madrid*** ###
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a. 
-
-
-      ***Precio: 75 euros***
-    image: images/service/branding.svg
-

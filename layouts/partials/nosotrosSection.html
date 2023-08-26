@@ -1,6 +1,6 @@
 {{ with .Site.Data.nosotrosSection }}
 {{ if .enable }}
-<section class="section nosotros" id="nosotros">
+<section class="section about" id="nosotros">
     <div class="container">
         <div class="row text-center">
             <div class="col-lg-6 offset-lg-3">
@@ -15,7 +15,7 @@
                 <div class="about_content">
                     <div class="about_content-thumb">
                         <div class="about-svg">
-                            <!-- <img src="images/hero/figure-svg.svg" alt="figure-svg"> -->
+                            <img src="images/hero/figure-svg.svg" alt="figure-svg">
                         </div>
                         <div class="about_content-thumb-image">
                             <img src="{{ .image | absURL }}" alt="about-img"
@@ -26,6 +26,7 @@
                             -webkit-mask-position: center center;
                           ' />
                         </div>
+
                     </div>
                     <div class="about_content-inner">
                         <div class="about_content-inner-blob">
@@ -47,14 +48,12 @@
                         <div class="mb-4 text-light">
                             {{ .content | markdownify}}
                         </div>
-                        <!--
-                        <div>
+                        <!-- <div>
                             <a class="btn btn-primary mr-3 btn-zoom"
                                 href="{{ .button1Target | absURL }}">{{ .button1Name }}</a>
                             <a class="btn btn-outline-primary btn-zoom" href="{{ .button2Target | absURL }}">
                                 {{ .button2Name }} </a>
-                        </div>
-                        -->
+                        </div> -->
                     </div>
                 </div>
             </div>

@@ -21,7 +21,6 @@
                     {{ $section := .testimonial }}
                     {{ range $section }}
                     <div class="testimonial__slider_item">
-                    <b>{{ .servicio }}</b>
                         {{ if .star }}
                         <ul class="testimonial__slider_item-rating">
                             {{ $rating := .star | int }}

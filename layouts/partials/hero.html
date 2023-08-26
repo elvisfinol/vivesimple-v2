@@ -7,7 +7,7 @@
     </svg>
   </div>
   <div class="hero_footer-svg">
-    <!-- <img src="images/hero/figure-svg.svg" alt="" /> -->
+    <img src="images/hero/figure-svg.svg" alt="" />
   </div>
   <div class="container">
     <div class="row align-items-center">
@@ -31,17 +31,14 @@
             <span class="top-title pre-line">{{ .topTitle }}</span>
             {{ .content | markdownify }}
           </div>
-          <!-- <a type="button" class="btn btn-md btn-primary btn-zoom col-md-4"
-            href="{{ .buttonURL | absURL }}">{{ .buttonName }}</a> -->
-          <a type="button" class="btn btn-md btn-primary btn-zoom col-md-4" 
-            href="https://www.youtube.com/@ViveSimple" target="_blank">Ir a YouTube</a>
- 
+          <a type="button" class="btn btn-lg btn-primary btn-zoom"
+            href="{{ .buttonURL | absURL }}">{{ .buttonName }}</a>
         </div>
       </div>
       <div class="col-lg-6">
         <div class="hero_figure">
           <div class="figure-svg">
-            <!-- <img src="images/hero/figure-svg.svg" alt="figure-svg" /> -->
+            <img src="images/hero/figure-svg.svg" alt="figure-svg" />
           </div>
           <img src="{{ .image | absURL }}" alt="hero-image" style='
                   -webkit-mask: url({{"images/hero/hero-mask-svg.png" | absURL }});
