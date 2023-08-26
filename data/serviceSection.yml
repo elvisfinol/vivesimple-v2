@@ -8,44 +8,112 @@ title: >
 
 service:
   - content: >
-      #### Asesoría Express 
+      ### ***Asesoría General*** ### 
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a. 
+      - Asesoría de orientación migratoria general
+
+      - Temática: vivir regularmente en España, trámites, vivienda (alquiler), trabajo, ciudades para vivir, etc.
+
+      - Propósito: Ayudar y acompañar en la planificación migratoria, aclarar dudas para evitar errores. Darte seguridad, tranquilidad y facilitar el proceso migratorio.
+
+      - 1 hora de videollamada
+
+      - Informe con datos generales y síntesis informativa de lo consultado
+
+      - Seguimiento por WhatsApp para futuras consultas
+
+
+      ***Precio: 30 euros***
+
     image: images/service/branding.svg
 
   - content: >
-      #### Asesoría General 
+      ### ***Asesoría Express*** ###
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a. 
+      - Asesoría específica: dudas o consultas puntuales y concretas
+
+      - Temática: trámites específicos o temáticas  particulares
+
+      - Videollamada de 30 minutos
+
+
+      ***Precio: 15 euros***
+
     image: images/service/branding.svg
 
   - content: >
-      #### Guía Trámite Paso a Paso
+       ### ***Guía Trámite Paso a Paso*** ###
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a. 
+       - Acompañamiento y guía en trámites - Paso a paso de los procedimientos
+
+       - Compartir enlaces y recursos - Instrucciones para presentación
+
+       - Requisitos y documentación necesaria
+
+       - Revisión exhaustiva de documentos / Preparación de carpeta 
+
+       - Incluye 2 videollamadas (1 al inicio del trámite y otra antes de presentar la documentación)
+
+       - Asistencia en citas, formularios y pago de tasa
+
+       - Informe con la guía paso a paso detallada
+
+       - Seguimiento por WhatsApp 
+
+
+       ***Precio: 75 euros***
     image: images/service/branding.svg
 
   - content: >
-      #### Mentoría Laboral
+      ### ***Mentoría Laboral General*** ###
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a. 
+      - Amplia Variedad de Temáticas - Podremos tratar el/los temas que necesites y requieras: 
+           - CV Efectivo (datos a incluir / datos que no conviene/ organización de la información / diseño)
+           - Plataformas de Búsqueda en España (principales / cómo usarlas / evitar el filtrado automático)
+           - LinkedIn Destacado (Cómo armar tu perfil en LinkedIn / Principales funcionalidades)
+           - Estrategias y tips para buscar trabajo fuera de las ofertas convencionales
+           - Preparación de Entrevistas - tips/consejos generales 
+           - Consejos generales para adaptación al mercado laboral español
+           - Tips/Informmación básica sobre contratación 
+          
+      - Incluye: 
+           - Videollamada 1 hora: para tratar temas/dudas principales de cada uno 
+           - Informe - síntesis información general 
+
+      ***Precio: 35 euros***
+
     image: images/service/branding.svg
 
   - content: >
-      #### Gestoría de Trámites Extranjería (Visas / Residencias / Nacionaldad Española)
+      ### ***Mentoría Laboral Específica*** ###
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a. 
+      - Trabajar en detalle, de forma específica y personalizada sobre alguna de estas 3 temáticas: 
+          - CV Destacado 
+          - Perfil de LinkedIn Potente 
+          - Preparación para entrevistas: Tips y Consejos 
+      - Videollamada 45 minutos 
+      
+
+      ***Precio: 75 euros***
+
     image: images/service/branding.svg
 
   - content: >
-      #### Seguros Médicos Privados de España para Extranjería
+      ### ***Seguros Médicos Privados de España para Extranjería*** ###
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a. 
+
+
+      ***Precio: 75 euros***
+
     image: images/service/branding.svg
 
   - content: >
-      #### Búsqueda Completa de Vivienda en Madrid
+      ### ***Búsqueda Completa de Vivienda en Madrid*** ###
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a. 
+
+
+      ***Precio: 75 euros***
     image: images/service/branding.svg
 
