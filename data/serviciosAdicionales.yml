@@ -1,0 +1,38 @@
+---
+enable: true
+topTitle: Servicios
+title: >
+  ## Servicios Adicionales - Con Profesionales en Colaboración
+
+service:
+  - content: >
+      ### ***Gestoría de Trámites de Extranjería:*** ### 
+        - Visa, Residencia y Nacionalidad Española
+        - Consulta y presentación del trámite por profesional con un Abogado Especialista en Extranjería (Visas, Residencias, y Nacionalidad Española, etc)
+
+
+      ***Precio: A consultar***
+
+    image: images/service/branding.svg
+    
+
+  - content: >
+      ### ***Seguros Médicos Privados en España:*** ###
+          - Asesoramiento sobre distintos planes de seguros médicos privados.
+          - Colaboramos con profesionales agentes y mediadores de seguros médicos.
+      
+    image: images/service/branding.svg
+
+  - content: >
+      ### ***Acompañamiento Psicológico durante el Proceso:*** ###
+          - Consulta con nuestros profesionales psicólogos para un apoyo emocional constante.
+      
+    image: images/service/branding.svg
+
+  - content: >
+      ### ***Búsqueda de vivienda en Madrid*** ###
+          - Te ofrecemos un servicio personalizado que se adapte a tus deseos y necesidades, para encontrar tu primera vivienda a Madrid (piso o habitación). Hacemos que el comienzo de tu aventura migratoria sea más sencillo, llegando directamente a tu hogar. 
+          Consulta con nuestro personal shopper inmobiliario experto 
+      
+    image: images/service/branding.svg
+

@@ -23,25 +23,30 @@ title = "Vive Simple"
   weight = 3
 
   [[menu.main]]
-  name = "Servicios"
+  name = "Mis Servicios"
   url = "#service"
   weight = 4
 
   [[menu.main]]
+  name = "Servicios Adicionales"
+  url = "#serviciosAdicionales"
+  weight = 5
+
+  [[menu.main]]
   name = "Testimonios"
   url = "#testimonial"
-  weight = 5
+  weight = 6
 
   [[menu.main]]
   name = "Contacto"
   url = "/contact"
-  weight = 6
+  weight = 7
 
   [[menu.main]]
   identifier = "blog"
   name = "Blog"
   url = "/blog"
-  weight = 7
+  weight = 8
     # [[menu.main]]
     # name = "Blog1"
     # url = "/blog/1"
