@@ -1,5 +1,6 @@
 ---
 title: Contáctame 📤
-breadcrumb: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+breadcrumb: ¡Hablemos! Si tienes preguntas acerca de nuestros servicios, su funcionamiento o simplemente deseas conocer más sobre cómo trabajamos, ponte en contacto con nosotros. Estamos aquí para responder a todas tus inquietudes.Si quieres iniciar un proyecto de colaboración conjunto, ¡no dudes en escribirnos! Estamos encantados de escuchar tu propuesta. 
+
 
 ---

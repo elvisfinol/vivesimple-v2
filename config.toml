@@ -37,21 +37,21 @@ title = "Vive Simple"
   url = "#testimonial"
   weight = 6
 
-  [[menu.main]]
-  name = "Contacto"
-  url = "/contact"
-  weight = 7
-
-  [[menu.main]]
+    [[menu.main]]
   identifier = "blog"
   name = "Blog"
   url = "/blog"
-  weight = 8
+  weight = 6
     # [[menu.main]]
     # name = "Blog1"
     # url = "/blog/1"
     # parent = "blog"
     # weight = 1
+
+  [[menu.main]]
+  name = "Contacto"
+  url = "/contact"
+  weight = 7
 
 
 ###########################################################
