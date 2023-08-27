@@ -94,7 +94,7 @@ service:
       - Videollamada 45 minutos 
       
 
-      ***Precio: 75 euros***
+      ***Precio: 25 euros***
 
     image: images/service/branding.svg
 
