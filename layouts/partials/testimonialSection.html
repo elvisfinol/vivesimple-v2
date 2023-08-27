@@ -22,11 +22,13 @@
                     {{ range $section }}
                     <div class="testimonial__slider_item">
                         {{ if .star }}
+                        <b><span>{{ .servicio }}</span></b>
+
                         <ul class="testimonial__slider_item-rating">
                             {{ $rating := .star | int }}
                             {{ $rating := sub $rating 1 }}
                             {{ range $i, $sequence := (seq 5) }}
-                            {{ if le $i $rating }}
+                            {{ if le $i $rating }}  
                             <li><i class="fa fa-star"></i></li>
                             {{ else }}
                             <li><i class="fa fa-star inactive"></i></li>
@@ -35,7 +37,7 @@
                         </ul>
                         {{ end }}
                         <p class="testimonial__slider_item-content"> {{ .comment | markdownify }} </p>
-                        <p class="testimonial__slider_item-author"><span>{{ .name }}</span> | {{ .time }}</p>
+                        <p class="testimonial__slider_item-author"><span>{{ .name }} {{ .nacionalidad }}</span> | {{ .time }}</p>
                     </div>
                     {{ end }}
                 </div>
