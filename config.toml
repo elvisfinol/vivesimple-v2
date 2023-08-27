@@ -23,7 +23,7 @@ title = "Vive Simple"
   weight = 3
 
   [[menu.main]]
-  name = "Mis Servicios"
+  name = "Nuestros Servicios"
   url = "#service"
   weight = 4
 
