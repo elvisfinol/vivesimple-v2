@@ -4,8 +4,8 @@ paginate = 6
 theme = "portio"
 title = "Vive Simple"
 
-# Main Menu
 [[menu.main]]
+identifier = "home"
 name = "Home"
 url = "#home"
 weight = 1
@@ -18,28 +18,27 @@ weight = 2
 [[menu.main]]
 name = "Nosotros"
 url = "#nosotros"
-weight = 2
-
+weight = 3
 
 [[menu.main]]
 name = "Servicios"
 url = "#service"
 weight = 3
 
-## [[menu.main]]
-## name = "Work"
-## url = "#portfolio"
-## weight = 4
+#[[menu.main]]
+#name = "Work"
+#url = "#portfolio"
+#weight = 4
 
-## [[menu.main]]
-## name = "Resume"
-## url = "#resume"
-## weight = 5
+#[[menu.main]]
+#name = "Resume"
+#url = "#resume"
+#weight = 5
 
-## [[menu.main]]
-## name = "Skills"
-## url = "#skills"
-## weight = 6
+#[[menu.main]]
+#name = "Skills"
+#url = "#skills"
+#weight = 6
 
 [[menu.main]]
 name = "Blog"
