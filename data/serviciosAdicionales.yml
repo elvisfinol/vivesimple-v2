@@ -6,9 +6,9 @@ title: >
 
 service:
   - content: >
-      ### ***Gestoría de Trámites de Extranjería:*** ### 
-        - Visa, Residencia y Nacionalidad Española
-        - Consulta y presentación del trámite por profesional con un Abogado Especialista en Extranjería (Visas, Residencias, y Nacionalidad Española, etc)
+      ### ***Asesoría Legal y Presentación de Trámites de Extranjería:*** ### 
+        - Consulta y presentación del trámite por profesional con un Abogado Especialista en Extranjería 
+        (Visas, Residencias, y Nacionalidad Española, etc)
 
 
       ***Precio: A consultar***
@@ -18,21 +18,36 @@ service:
 
   - content: >
       ### ***Seguros Médicos Privados en España:*** ###
-        - Asesoramiento sobre distintos planes de seguros médicos privados.
+        - Asesoramiento personalizado sobre distintos companias y planes de seguros médicos privados, 
+        que se adapten a tus necesidades y requerimientos (para trámites de extranjería, para tener una cobertura médica completa o 
+         para complementar tu cobertura sanitaria pública)
         - Colaboramos con profesionales agentes y mediadores de seguros médicos.
+
+        ***Precio: Consulta gratis***
       
     image: images/service/branding.svg
 
   - content: >
-      ### ***Acompañamiento Psicológico durante el Proceso:*** ###
-        - Consulta con nuestros profesionales psicólogos para un apoyo emocional constante.
+      ### ***Acompañamiento Psicológico durante el Proceso Migratorio:*** ###
+        - Colaboramos con profesionales psicólogos expertos en acompanamiento migratorio, 
+         para que puedas tegas un apoyo emocional en tu proceso. 
       
+        ***Precio: A consultar***
+
     image: images/service/branding.svg
 
   - content: >
       ### ***Búsqueda de vivienda en Madrid*** ###
         - Te ofrecemos un servicio personalizado que se adapte a tus deseos y necesidades, para encontrar tu primera vivienda a Madrid (piso o habitación). Hacemos que el comienzo de tu aventura migratoria sea más sencillo, llegando directamente a tu hogar. 
-          Consulta con nuestro personal shopper inmobiliario experto 
-      
+        - Consulta con nuestro personal shopper inmobiliario experto 
+
+        ***Precio: Proximamente***
+
+
+      ### ***Apertura de cuenta bancaria*** ###
+        - Consulta con nuestro ejecutivo de cuenta bancaria en colaboración.
+
+        ***Precio: Gratis***
+     
     image: images/service/branding.svg
 

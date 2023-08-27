@@ -22,9 +22,9 @@
         </svg>
     </div>
 
-    <div class="service__background_pattern">
-        <!-- <img src="images/service/background-pattern.svg" alt="background-pattern"> -->
-    </div>
+    <!-- <div class="service__background_pattern">
+        <img src="images/service/background-pattern.svg" alt="background-pattern">
+    </div> -->
 
     <div class="container">
         <div class="row">
@@ -42,7 +42,7 @@
                     {{ $Section := .service }}
                     {{ range $Section }}
                     <div class="service__slider_item">
-                        <div class="service__slider_item-icon">
+                        <!-- <div class="service__slider_item-icon">
                             <div class="icon-background">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="122.457" height="109.702"
                                     viewBox="0 0 122.457 109.702">
@@ -54,7 +54,7 @@
                             <div class="icon">
                                 <img src=" {{ .image | absURL }} " alt="ui-ux">
                             </div>
-                        </div>
+                        </div> -->
                         <div class="mt-5">
                             {{ .content | markdownify }}
                         </div>
