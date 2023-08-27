@@ -41,12 +41,13 @@ service:
         - Consulta con nuestro personal shopper inmobiliario experto 
 
         ***Precio: Proximamente***
+     
+    image: images/service/branding.svg
 
-
+  - content: >
       ### 🏦 ***Apertura de cuenta bancaria*** ###
         - Consulta con nuestro ejecutivo de cuenta bancaria en colaboración.
 
         ***Precio: Gratis***
      
     image: images/service/branding.svg
-
