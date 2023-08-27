@@ -99,37 +99,33 @@ service:
     image: images/service/branding.svg
 
   - content: >
-      ### ***Servicios Adicionales - Con Profesionales en Colaboración*** ###
+      ### ***Servicios Turístico*** ###
 
-      - Gestoría de Trámites de Extranjería:
-          - Visa, Residencia y Nacionalidad Española
-          - Consulta y presentación del trámite por profesional con un Abogado Especialista en Extranjería (Visas, Residencias, y Nacionalidad Española, etc)
+      - ***Asesoría general para tu viaje a España/Europa***  
 
-      - Seguros Médicos Privados en España:
-          - Asesoramiento sobre distintos planes de seguros médicos privados.
-          - Colaboramos con profesionales agentes y mediadores de seguros médicos.
+        - ¿Dudas sobre tu viaje? Resuelve todas tus dudas en 1 hora por videollamada.
 
-      - Acompañamiento Psicológico durante el Proceso:
-          - Consulta con nuestros profesionales psicólogos para un apoyo emocional constante.
+        - Planificación personalizada: Ciudades de ensueño o destinos novedosos, tú decides. 
 
-      - Búsqueda de vivienda en Madrid
-          - Te ofrecemos un servicio personalizado que se adapte a tus deseos y necesidades, para encontrar tu primera vivienda a Madrid (piso o habitación). Hacemos que el comienzo de tu aventura migratoria sea más sencillo, llegando directamente a tu hogar. 
-          Consulta con nuestro personal shopper inmobiliario experto 
+        - Nuestro asesoramiento abarca desde los requisitos de entrada a Europa, hasta los mejores lugares para visitar en función de tus preferencias. Te ayudamos a descubrir el momento perfecto para tu aventura y te proporcionamos consejos sobre cómo desplazarte y dónde cambiar tu moneda.
 
+        - Informe con información general y un resumen personalizado de lo conversado. 
+
+      ***Precio: 35 euros***
+      
+      - ***Itinerario y recorrido personalizado Madrid***
+        - Descubre Madrid a tu Manera: Diseñamos tu itinerario basado en tus días disponibles y gustos personales.
+
+        - Recorrido Hecho a Medida: Un plan detallado para que no te pierdas ningún punto imprescindible, ni ningún rincón especial de la Ciudad. 
+
+        - Vive Madrid como un Local: Te llevamos más allá de lo turístico, explorando lo auténtico con consejos de residentes para una experiencia 100% local. 
+
+        - Los mejores tips y recomendaciones prácticas
+
+        
+        - Informe con información general y un resumen personalizado de lo conversado. 
 
       ***Precio: A consultar***
 
     image: images/service/branding.svg
     
-
-  # - content: >
-  
-  
-  #     ### ***Búsqueda de Vivienda en Madrid*** ###
-
-  #     ***Proximamente***
-      
-  #     Te ofrecemos un servicio personalizado que se adapte a tus deseos y necesidades, para encontrar tu primera vivienda a Madrid. Hacemos que el comienzo de tu aventura migratoria sea más sencillo y relajado, llegando directamente a tu hogar.
-      
-  #   image: images/service/branding.svg
-
