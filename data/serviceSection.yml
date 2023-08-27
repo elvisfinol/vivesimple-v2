@@ -8,7 +8,7 @@ title: >
 
 service:
   - content: >
-      ### ***Asesoría Migratoria General*** ### 
+      ### 🔖 ***Asesoría Migratoria General*** ### 
 
       - Asesoría de orientación migratoria general
 
@@ -28,7 +28,7 @@ service:
     image: images/service/branding.svg
 
   - content: >
-      ### ***Asesoría Migratoria Express*** ###
+      ### 🔖 ***Asesoría Migratoria Express*** ###
 
       - Asesoría específica: dudas o consultas puntuales y concretas
 
@@ -42,7 +42,7 @@ service:
     image: images/service/branding.svg
 
   - content: >
-       ### ***Guía Trámite Paso a Paso*** ###
+       ### 📝 ***Guía Trámite Paso a Paso*** ###
 
        - Acompañamiento y guía en trámites - Paso a paso de los procedimientos
 
@@ -66,7 +66,7 @@ service:
     image: images/service/branding.svg
 
   - content: >
-      ### ***Mentoría Laboral General*** ###
+      ### 👷‍♀️ ***Mentoría Laboral General*** ###
 
       - Amplia Variedad de Temáticas - Podremos tratar el/los temas que necesites y requieras: 
            - CV Efectivo (datos a incluir / datos que no conviene/ organización de la información / diseño)
@@ -86,7 +86,7 @@ service:
     image: images/service/branding.svg
 
   - content: >
-      ### ***Mentoría Laboral Específica*** ###
+      ### 🕵️‍♀️ ***Mentoría Laboral Específica*** ###
 
       - Trabajar en detalle, de forma específica y personalizada sobre alguna de estas 3 temáticas: 
           - CV Destacado 
@@ -100,7 +100,7 @@ service:
     image: images/service/branding.svg
 
   - content: >
-      ### ***Servicios Turístico*** ###
+      ### ✈️ ***Servicios Turístico*** ###
 
       - ***Asesoría general para tu viaje a España/Europa***  
 
