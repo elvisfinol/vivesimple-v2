@@ -8,7 +8,7 @@ title: >
 
 service:
   - content: >
-      ### ***Asesoría General*** ### 
+      ### ***Asesoría Migratoria General*** ### 
 
       - Asesoría de orientación migratoria general
 
@@ -28,7 +28,7 @@ service:
     image: images/service/branding.svg
 
   - content: >
-      ### ***Asesoría Express*** ###
+      ### ***Asesoría Migratoria Express*** ###
 
       - Asesoría específica: dudas o consultas puntuales y concretas
 
@@ -112,19 +112,24 @@ service:
       - Acompañamiento Psicológico durante el Proceso:
           - Consulta con nuestros profesionales psicólogos para un apoyo emocional constante.
 
+      - Búsqueda de vivienda en Madrid
+          - Te ofrecemos un servicio personalizado que se adapte a tus deseos y necesidades, para encontrar tu primera vivienda a Madrid (piso o habitación). Hacemos que el comienzo de tu aventura migratoria sea más sencillo, llegando directamente a tu hogar. 
+          Consulta con nuestro personal shopper inmobiliario experto 
 
-      ***Precio: 75 euros***
+
+      ***Precio: A consultar***
 
     image: images/service/branding.svg
     
 
-  - content: >
+  # - content: >
   
   
-      ### ***Búsqueda de Vivienda en Madrid*** ###
+  #     ### ***Búsqueda de Vivienda en Madrid*** ###
 
-      ***Proximamente***
+  #     ***Proximamente***
       
-      Te ofrecemos un servicio personalizado que se adapte a tus deseos y necesidades, para encontrar tu primera vivienda a Madrid. Hacemos que el comienzo de tu aventura migratoria sea más sencillo y relajado, llegando directamente a tu hogar.
+  #     Te ofrecemos un servicio personalizado que se adapte a tus deseos y necesidades, para encontrar tu primera vivienda a Madrid. Hacemos que el comienzo de tu aventura migratoria sea más sencillo y relajado, llegando directamente a tu hogar.
       
-    image: images/service/branding.svg
+  #   image: images/service/branding.svg
+
