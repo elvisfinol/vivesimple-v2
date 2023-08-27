@@ -12,15 +12,16 @@ service:
 
       - Asesoría de orientación migratoria general
 
-      - Temática: vivir regularmente en España, trámites, vivienda (alquiler), trabajo, ciudades para vivir, etc.
+      - Temática: Podremos tratar el/los temas que necesites y requieras (ingreso y vivir regularmente en España, trámites en general, 
+      vida en Espana, alquileres , trabajo, ciudades para vivir, etc).
 
-      - Propósito: Ayudar y acompañar en la planificación migratoria, aclarar dudas para evitar errores. Darte seguridad, tranquilidad y facilitar el proceso migratorio.
+      - Propósito: Ayudar y acompañar en la planificación migratoria, aclarar dudas para evitar errores. Darte toda la información, seguridad, 
+      y tranquilidad, para facilitarte el proceso migratorio.
 
-      - 1 hora de videollamada
-
-      - Informe con datos generales y síntesis informativa de lo consultado
-
-      - Seguimiento por WhatsApp para futuras consultas
+      - Incluye:
+          - videollamada de 1 hora
+          - Informe con datos generales y síntesis informativa de lo consultado
+          - Seguimiento por WhatsApp para consultas
 
 
       ***Precio: 30 euros***
@@ -34,10 +35,11 @@ service:
 
       - Temática: trámites específicos o temáticas  particulares
 
-      - Videollamada de 30 minutos
+      - Incluye:
+          - Videollamada de 30 minutos
 
 
-      ***Precio: 20 euros***
+      ***Precio: 15 euros***
 
     image: images/service/branding.svg
 
@@ -50,15 +52,13 @@ service:
 
        - Requisitos y documentación necesaria
 
-       - Revisión exhaustiva de documentos / Preparación de carpeta 
+       - Revisión exhaustiva de documentos / Preparación de carpeta para preseentación
 
-       - Incluye 2 videollamadas (1 al inicio del trámite y otra antes de presentar la documentación)
-
-       - Asistencia en citas, formularios y pago de tasa
-
-       - Informe con la guía paso a paso detallada
-
-       - Seguimiento por WhatsApp 
+       - Incluye: 
+            - 2 videollamadas (1 al inicio del trámite y otra antes de presentar la documentación)
+            - Asistencia para sacar citas, llenar formularios y el pago de tasa
+            - Informe con la guía paso a paso detallada
+            - Seguimiento por WhatsApp 
 
 
        ***Precio: 75 euros***
