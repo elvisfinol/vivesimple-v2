@@ -10,12 +10,18 @@
         margin: 10px 10px 0;
         border-radius: 5px;
     }
-    .navbar-brand {
-        img {
-            @include desktop {
-                width: 80%;
-            }
-        }
+    // .navbar-brand {
+    //     img {
+    //         @include desktop {
+    //             width: 80%;
+    //         }
+    //     }
+        .navbar-brand {
+            img {
+                border-radius: 4px;
+                padding: 5px;
+                width: 150px;
+              }
     }
     &.nav__color__change {
         background: #ffffff;

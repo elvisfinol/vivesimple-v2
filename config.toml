@@ -47,6 +47,11 @@ title = "Vive Simple"
     # url = "/blog/1"
     # parent = "blog"
     # weight = 1
+    # [[menu.main]]
+    # name = "Blog2"
+    # url = "/contact"
+    # parent = "blog"
+    # weight = 2
 
   [[menu.main]]
   name = "Contacto"

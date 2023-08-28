@@ -38,6 +38,18 @@
   </div>
 </header>
 
+<section class="container">
+        <div class="singleBlog__content">
+          {{ if .Params.toc }}
+            <h3>Table of Contents</h3>
+            {{ .TableOfContents | replaceRE "<ul>[[:space:]]*<li>[[:space:]]*<ul>" "<ul>" | replaceRE "</ul>[[:space:]]*</li>[[:space:]]*</ul>" "</ul>" |  safeHTML }}
+          {{ end }}
+
+          {{ .Content }}
+        </div>
+</section>
+
+
 <!-- 
 {{ $address := .Site.Params.address }}
 <section class="section contact__info">
