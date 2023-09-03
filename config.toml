@@ -12,15 +12,26 @@ title = "Vive Simple"
   url = "#home"
   weight = 1
 
-  [[menu.main]]
-  name = "Acerca de Mí"
-  url = "#about"
-  weight = 2
+[[menu.main]]
+identifier = "aboutme"
+name = "Acerca de Mí"
+url = "#about"
+weight = 2
+    [[menu.main]]
+    name = "Acerca de Mí"
+    url = "#about"
+    parent = "aboutme"
+    weight = 1
+    [[menu.main]]
+    name = "Nosotros"
+    url = "#nosotros"
+    parent = "aboutme"
+    weight = 2
 
-  [[menu.main]]
-  name = "Nosotros"
-  url = "#nosotros"
-  weight = 3
+  # [[menu.main]]
+  # name = "Nosotros"
+  # url = "#nosotros"
+  # weight = 3
 
   [[menu.main]]
   name = "Nuestros Servicios"
@@ -37,21 +48,21 @@ title = "Vive Simple"
   url = "#testimonial"
   weight = 6
 
-    [[menu.main]]
+  [[menu.main]]
   identifier = "blog"
   name = "Blog"
   url = "/blog"
   weight = 6
-    # [[menu.main]]
-    # name = "Blog1"
-    # url = "/blog/1"
-    # parent = "blog"
-    # weight = 1
-    # [[menu.main]]
-    # name = "Blog2"
-    # url = "/contact"
-    # parent = "blog"
-    # weight = 2
+    [[menu.main]]
+    name = "Blog1"
+    url = "/blog/1"
+    parent = "blog"
+    weight = 1
+    [[menu.main]]
+    name = "Blog2"
+    url = "/contact"
+    parent = "blog"
+    weight = 2
 
   [[menu.main]]
   name = "Contacto"
