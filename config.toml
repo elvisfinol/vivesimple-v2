@@ -14,17 +14,17 @@ title = "Vive Simple"
 
 [[menu.main]]
 identifier = "aboutme"
-name = "Acerca de Mí"
-url = "#about"
+name = "Nosotros"
+url = "/acercademi"
 weight = 2
     [[menu.main]]
-    name = "Acerca de Mí"
-    url = "#about"
+    name = "⇾ Acerca de Mí"
+    url = "/acercademi"
     parent = "aboutme"
     weight = 1
     [[menu.main]]
-    name = "Nosotros"
-    url = "#nosotros"
+    name = "⇾ Nuestra historia"
+    url = "/nuestrahistoria"
     parent = "aboutme"
     weight = 2
 
@@ -53,23 +53,42 @@ weight = 2
   name = "Blog"
   url = "/blog"
   weight = 6
+    # [[menu.main]]
+    # name = "Blog1"
+    # url = "/blog/1"
+    # parent = "blog"
+    # weight = 1
+    # [[menu.main]]
+    # name = "Blog2"
+    # url = "/contact"
+    # parent = "blog"
+    # weight = 2
+
+  [[menu.main]]
+  identifier = "tienda"
+  name = "Tienda"
+  url = "/"
+  weight = 7
     [[menu.main]]
-    name = "Blog1"
-    url = "/blog/1"
-    parent = "blog"
+    name = "⇾ Nuestras herramientas"
+    url = "https://kit.co/vivesimple.me/vive-simple-kit-studio"
+    parent = "tienda"
     weight = 1
     [[menu.main]]
-    name = "Blog2"
-    url = "/contact"
-    parent = "blog"
+    name = "⇾ Productos Digitales"
+    url = "https://vivesimple.gumroad.com/"
+    parent = "tienda"
     weight = 2
+    [[menu.main]]
+    name = "⇾ Descuento: Epidemic Sound"
+    url = "https://share.epidemicsound.com/bw76ca"
+    parent = "tienda"
+    weight = 3
 
   [[menu.main]]
   name = "Contacto"
   url = "/contact"
-  weight = 7
-
-
+  weight = 8
 ###########################################################
 
 

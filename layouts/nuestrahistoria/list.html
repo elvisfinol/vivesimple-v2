@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+<header class="breadCrumb">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h3 class="breadCrumb__title">{{ .Title }}</h3>
+        <nav aria-label="breadcrumb" class="d-flex justify-content-center">
+          <ol class="breadcrumb align-items-center">
+            <li class="breadcrumb-item active" aria-current="page">{{ .Params.breadcrumb }}</li>
+          </ol>
+        </nav>
+      </div>
+    </div>
+  </div>
+
+  <!-- <div class="row g-3">
+    <div class="col-4 text-center font-italic"><img class="img-fluid rounded" src="" alt="">Viajando ✈️ </div>
+    <div class="col-4 text-center font-italic"><img class="img-fluid rounded" src="/static/images/about/about-img.jpeg" alt="">Creando Contenido 🎥</div>
+    <div class="col-4 text-center font-italic"><img class="img-fluid rounded" src="" alt="">Trabajando 👩🏼‍💻</div>
+  </div> -->
+
+  <section class="container">
+    <div class="singleBlog__content">
+      {{ if .Params.toc }}
+        <h3>Table of Contents</h3>
+        {{ .TableOfContents | replaceRE "<ul>[[:space:]]*<li>[[:space:]]*<ul>" "<ul>" | replaceRE "</ul>[[:space:]]*</li>[[:space:]]*</ul>" "</ul>" |  safeHTML }}
+      {{ end }}
+
+      {{ .Content }}
+    </div>
+</section>
+
+</header>
+
+
+{{ end }}
