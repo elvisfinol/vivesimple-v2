@@ -33,53 +33,32 @@ weight = 2
   # url = "#nosotros"
   # weight = 3
 
-  [[menu.main]]
-  identifier = "servicios"
-  name = "Servicios"
-  url = "#service"
-  weight = 4
-      [[menu.main]]
-    name = "⇾ Nuestros Servicios"
-    url = "#service"
-    parent = "servicios"
-    weight = 1
-    [[menu.main]]
-    name = "⇾ Servicios Adicionales"
-    url = "#serviciosAdicionales"
-    parent = "servicios"
-    weight = 2
+[[menu.main]]
+name = "Nuestros Servicios"
+url = "#service"
+weight = 4
 
-  # [[menu.main]]
-  # name = "Servicios Adicionales"
-  # url = "#serviciosAdicionales"
-  # weight = 5
+[[menu.main]]
+name = "Servicios Adicionales"
+  url = "#serviciosAdicionales"
+  weight = 5
 
-  [[menu.main]]
-  name = "Testimonios"
-  url = "#testimonial"
-  weight = 6
+[[menu.main]]
+name = "Testimonios"
+url = "#testimonial"
+weight = 6
 
-  [[menu.main]]
-  identifier = "blog"
-  name = "Blog"
-  url = "/blog"
-  weight = 6
-    # [[menu.main]]
-    # name = "Blog1"
-    # url = "/blog/1"
-    # parent = "blog"
-    # weight = 1
-    # [[menu.main]]
-    # name = "Blog2"
-    # url = "/contact"
-    # parent = "blog"
-    # weight = 2
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/blog"
+weight = 7
 
   [[menu.main]]
   identifier = "tienda"
   name = "Tienda"
   url = "/"
-  weight = 7
+  weight = 8
     [[menu.main]]
     name = "⇾ Nuestras herramientas"
     url = "https://kit.co/vivesimple.me/vive-simple-kit-studio"
@@ -99,7 +78,7 @@ weight = 2
   [[menu.main]]
   name = "Contacto"
   url = "/contact"
-  weight = 8
+  weight = 9
 ###########################################################
 
 

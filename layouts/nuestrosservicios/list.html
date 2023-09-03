@@ -1,0 +1,35 @@
+{{ define "main" }}
+<header class="breadCrumb">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h3 class="breadCrumb__title">{{ .Title }}</h3>
+        <nav aria-label="breadcrumb" class="d-flex justify-content-center">
+          <ol class="breadcrumb align-items-center">
+            <li class="breadcrumb-item active" aria-current="page">{{ .Params.breadcrumb }}</li>
+          </ol>
+        </nav>
+      </div>
+    </div>
+
+
+  <section class="container">
+    <div class="singleBlog__content">
+      {{ if .Params.toc }}
+        <h3>Table of Contents</h3>
+        {{ .TableOfContents | replaceRE "<ul>[[:space:]]*<li>[[:space:]]*<ul>" "<ul>" | replaceRE "</ul>[[:space:]]*</li>[[:space:]]*</ul>" "</ul>" |  safeHTML }}
+      {{ end }}
+
+      {{ .Content }}
+    </div>
+
+    <div class="navbar-nav">
+      <a href="{{ "agendar" | absURL }}" class="btn btn-primary">Agendar Cita 👩🏼‍💻</a>
+    </div>
+
+</section>
+
+</header>
+
+
+{{ end }}
