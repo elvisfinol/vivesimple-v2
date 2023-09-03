@@ -34,14 +34,25 @@ weight = 2
   # weight = 3
 
   [[menu.main]]
-  name = "Nuestros Servicios"
+  identifier = "servicios"
+  name = "Servicios"
   url = "#service"
   weight = 4
+      [[menu.main]]
+    name = "⇾ Nuestros Servicios"
+    url = "#service"
+    parent = "servicios"
+    weight = 1
+    [[menu.main]]
+    name = "⇾ Servicios Adicionales"
+    url = "#serviciosAdicionales"
+    parent = "servicios"
+    weight = 2
 
-  [[menu.main]]
-  name = "Servicios Adicionales"
-  url = "#serviciosAdicionales"
-  weight = 5
+  # [[menu.main]]
+  # name = "Servicios Adicionales"
+  # url = "#serviciosAdicionales"
+  # weight = 5
 
   [[menu.main]]
   name = "Testimonios"
