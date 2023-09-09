@@ -1,4 +1,4 @@
 ---
 title: Agendar Cita 📤
-breadCrumb: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna alique.
+breadCrumb: Agenda tu cita aquí para alguno de mis servicios, y tener una asesoría o mentoría conmigo. En las próximas 72 horas, me pondré en contacto contigo a través de WhatsApp para confirmar la fecha y hora acordadas, o para reprogramar si fuera necesario. ¡Espero poder ayudarte pronto!
 ---

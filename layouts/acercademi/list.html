@@ -18,7 +18,15 @@
 
 </div>
 
+
   <section class="container">
+
+    <div class="row g-3">
+      <div class="col-4 text-center font-italic"><img class="img-fluid rounded" src="/images/about/about-image-traveling.jpeg" alt="">Viajando ✈️ </div>
+      <div class="col-4 text-center font-italic"><img class="img-fluid rounded" src="/images/about/about-img.jpeg" alt="">Creando Contenido 🎥</div>
+      <div class="col-4 text-center font-italic"><img class="img-fluid rounded" src="/images/about/about-image-working.jpeg"alt="">Trabajando 👩🏼‍💻</div>
+    </div>
+
     <div class="singleBlog__content">
       {{ if .Params.toc }}
         <h3>Table of Contents</h3>
@@ -26,6 +34,7 @@
       {{ end }}
 
       {{ .Content }}
+
     </div>
 </section>
 

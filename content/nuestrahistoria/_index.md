@@ -3,9 +3,6 @@ title: "Nuestra historia"
 
 ---
 
-![nosotros](/images/about/nosotros.jpeg)
-
-
 ¡Bienvenidos a nuestra historia detrás de **[Vive Simple](https://www.youtube.com/@ViveSimple)**! 🌟
   
 ¡Hola a todos! Somos el equipo detrás de Vive Simple, y queremos compartir cómo comenzó todo y hacia dónde vamos. 
@@ -72,6 +69,3 @@ ofrecerles lo mejor a todos ustedes del otro lado).
 
 ¡Si llegaron hasta acá, gracias por tomarse el tiempo de conocernos más, y los invitamos a seguir del otro 
 lado, y ser parte de nuestra gran comunidad! 🚀🌍
-
-
-*Mica*,
