@@ -1,6 +1,10 @@
 ---
 title: "Nuestra historia"
+
 ---
+
+![nosotros](/images/about/nosotros.jpeg)
+
 
 ¡Bienvenidos a nuestra historia detrás de **[Vive Simple](https://www.youtube.com/@ViveSimple)**! 🌟
   

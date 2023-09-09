@@ -2,9 +2,8 @@
 title: "Contáctame"
 ---
 
-**¡Hablemos!**
+**¡Hablemos!** 👋🏻
 
-Si tienes preguntas acerca de nuestros servicios, su funcionamiento o simplemente deseas conocer más sobre cómo trabajamos, ponte en contacto con nosotros. 
+¿Tienes dudas sobre nuestros servicios, cómo funcionamos o simplemente deseas conocer más sobre nuestra metodología de trabajo? No dudes en ponerte en contacto con nosotros. Estamos aquí para atender todas tus preguntas e inquietudes.
 
-Estamos aquí para responder a todas tus inquietudes.
-Si quieres iniciar un proyecto de colaboración conjunto, ¡no dudes en escribirnos! Estamos encantados de escuchar tu propuesta. 
+Si estás interesado en comenzar una colaboración, ¡te invitamos a escribirnos! Estaremos encantados de escuchar y valorar tus propuestas.

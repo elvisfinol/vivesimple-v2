@@ -2,6 +2,8 @@
 title: "Acerca de mí"
 ---
 
+![acercademi](/images/about/about-img.jpeg)
+
   Soy Mica, una apasionada viajera, migrante, profesional multifacética, creadora de contenido y emprendedora. 
   Argentina e Italiana, viviendo en la ciudad de Madrid, España.📍
 
