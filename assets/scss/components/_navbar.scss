@@ -74,3 +74,28 @@
         }
     }
 }
+
+
+.dropdown-menu{
+    border: none;
+    background: $white;
+    -webkit-box-shadow: 0px 10px 34px -20px rgba(0,0,0,0.41);
+    -moz-box-shadow: 0px 10px 34px -20px rgba(0,0,0,0.41);
+    box-shadow: 0px 10px 34px -20px rgba(0,0,0,0.41);
+    border-radius: 4px;
+    .dropdown-item{
+        font-size: 12px;
+        color: $black;
+        &:hover, &:focus{
+            background: $primary;
+            color: $white;
+        }
+    }
+    // @include media-breakpoint-down(md){
+    //     display: block !important;
+    //     background: $black;
+    //     .dropdown-item{
+    //         color: rgba(255,255,255,.8);
+    //     }
+    // }
+}
