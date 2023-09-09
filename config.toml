@@ -76,6 +76,11 @@ weight = 7
     url = "https://share.epidemicsound.com/bw76ca"
     parent = "tienda"
     weight = 3
+    [[menu.main]]
+    name = "⇾ Apoya nuestro canal con un cafecito!"
+    url = "https://www.buymeacoffee.com/vivesimple"
+    parent = "tienda"
+    weight = 4
 
   [[menu.main]]
   name = "Contacto"
