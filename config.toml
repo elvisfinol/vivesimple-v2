@@ -15,7 +15,7 @@ title = "Vive Simple"
 [[menu.main]]
 identifier = "aboutme"
 name = "Nosotros"
-url = "/acercademi"
+url = "acercademi"
 weight = 2
     [[menu.main]]
     name = "⇾ Acerca de Mí"
@@ -28,20 +28,21 @@ weight = 2
     parent = "aboutme"
     weight = 2
 
-  # [[menu.main]]
-  # name = "Nosotros"
-  # url = "#nosotros"
-  # weight = 3
-
 [[menu.main]]
-name = "Nuestros Servicios"
-url = "#service"
+identifier = "servicios"
+name = "Servicios"
 weight = 4
 
 [[menu.main]]
-name = "Servicios Adicionales"
-  url = "#serviciosAdicionales"
-  weight = 5
+name = "Nuestros Servicios"
+url = "http://localhost:1313/#service"
+parent = "servicios"
+weight = 1
+
+# [[menu.main]]
+# name = "Servicios Adicionales"
+#   url = "#serviciosAdicionales"
+#   weight = 5
 
 [[menu.main]]
 name = "Testimonios"
@@ -49,7 +50,7 @@ url = "#testimonial"
 weight = 6
 
 [[menu.main]]
-identifier = "blog"
+# identifier = "blog"
 name = "Blog"
 url = "/blog"
 weight = 7
