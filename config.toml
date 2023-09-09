@@ -45,22 +45,47 @@ url = "#serviciosAdicionales"
 parent = "servicios"
 weight = 2
 
-[[menu.main]]
-name = "Testimonios"
-url = "#testimonial"
-weight = 6
+# [[menu.main]]
+# name = "Testimonios"
+# url = "#testimonial"
+# weight = 6
 
 [[menu.main]]
-# identifier = "blog"
+identifier = "blog"
 name = "Blog"
-url = "/blog"
+url = "/"
 weight = 7
+ [[menu.main]]
+    name = "Ver todos los post"
+    url = "/blog"
+    parent = "blog"
+    weight = 6
+ [[menu.main]]
+    name = "Trámites"
+    url = ""
+    parent = "blog"
+    weight = 7
+ [[menu.main]]
+    name = "Turismo ✈️"
+    url = ""
+    parent = "blog"
+    weight = 7
+ [[menu.main]]
+    name = "Lifestyle ⛱️ "
+    url = ""
+    parent = "blog"
+    weight = 7
+ [[menu.main]]
+    name = "Tips ☝🏻"
+    url = "/categories/tips/"
+    parent = "blog"
+    weight = 7
 
-  [[menu.main]]
-  identifier = "tienda"
-  name = "Tienda"
-  url = "/"
-  weight = 8
+[[menu.main]]
+identifier = "tienda"
+name = "Tienda"
+url = "/"
+weight = 8
     [[menu.main]]
     name = "⇾ Nuestras herramientas"
     url = "https://kit.co/vivesimple.me/vive-simple-kit-studio"
@@ -117,11 +142,11 @@ email = "info.vivesimple@gmail.com"
 # openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 # phone = "+(448) 833 5272 332"
 
-[params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
-pinImage = "images/pin.png"
+# [params.map]
+# APIkey = "YOUR GOOGLE MAP API"
+# latitude = "23.7783741"
+# longitude = "90.3746808"
+# pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]

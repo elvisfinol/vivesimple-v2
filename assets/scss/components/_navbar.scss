@@ -2,6 +2,8 @@
     padding: 40px 10;
     background: #78bfcf;
     transition: all 0.1s ease;
+    text-transform: uppercase;
+    
     @include desktop {
         background: #78bfcf;
     }

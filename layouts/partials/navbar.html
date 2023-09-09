@@ -17,7 +17,7 @@
             {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
             {{if .HasChildren }}
             
-              <li class="nav-item dropdown main-navigation my-0">
+              <li class="nav-item font-weight-bold dropdown main-navigation my-0">
                   
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                     {{ range .Children }}
@@ -37,7 +37,7 @@
 
             <li class="nav-item {{ if $active }}active{{ end }}">
               <a href="{{ $.Site.BaseURL }}{{ .URL }}"
-              class="nav-link nav-link text-dark text-sm-center p-2 {{ if $.IsHome }}scroll{{ end }}">{{ .Name }}
+              class="nav-link text-white text-sm-center p-2 font-weight-bold {{ if $.IsHome }}scroll{{ end }}">{{ .Name }}
               </a>
             </li>
             {{ end }}
