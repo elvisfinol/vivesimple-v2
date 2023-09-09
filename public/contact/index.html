@@ -177,7 +177,7 @@
       </ul>
 
       <div class="navbar-nav">
-        <a href="https://vivesimple-new.netlify.app/agendar" class="btn btn-primary btn-zoom hire_button">Agendar Cita 👩🏼‍💻</a>
+        <a href="https://vivesimple-new.netlify.app/agendar" class="btn btn-danger btn-zoom hire_button">Agendar Cita 👩🏼‍💻</a>
       </div>
 
     </div>
@@ -265,9 +265,24 @@ Si quieres iniciar un proyecto de colaboración conjunto, ¡no dudes en escribir
               </div>
 
             </div>
+
+            <div class="form-group">
+              <label for="exampleFormControlSelect1">Tipo de consulta</label>
+              
+              <select name="Tipo de consulta" class="form-control" id="consulta" required="">
+                <option value="" selected="" disabled="">Selecionar</option>
+                <option>Asesorías / Mentorías con Mica</option>
+                <option>Seguros Médicos Privados en España</option>
+                <option>Asesoría Legal y Presentación de Trámites de Extranjería</option>
+                <option>Acompañamiento Psicológico durante el Proceso Migratorio</option>
+                <option>Apertura de cuenta bancaria</option>
+                <option>Propuesta de Proyecto / Colaboración</option>
+                <option>Otras consultas</option>
+              </select>
+            </div>
             
             <div class="form-group">
-              <textarea class="form-control" id="message" rows="6" name="message" placeholder="Mensaje"></textarea>
+              <textarea class="form-control" id="message" rows="6" name="message" placeholder="Mensaje" required ></textarea>
             </div>
 
             <div class="form-group">
@@ -278,7 +293,7 @@ Si quieres iniciar un proyecto de colaboración conjunto, ¡no dudes en escribir
               </div>
             </div>
 
-            <button type="submit" class="btn btn-primary btn-zoom" id="contact-form-button" formtarget="_blank">Enviar 📤 </button>
+            <button type="submit" class="btn btn-primary btn-zoom" id="contact-form-button" formtarget="_blank">Consultar 📤 </button>
             <p id="contact-form-status" class="mt-3"></p>
           </form>
 
