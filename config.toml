@@ -35,14 +35,15 @@ weight = 4
 
 [[menu.main]]
 name = "Nuestros Servicios"
-url = "http://localhost:1313/#service"
+url = "/#service"
 parent = "servicios"
 weight = 1
 
-# [[menu.main]]
-# name = "Servicios Adicionales"
-#   url = "#serviciosAdicionales"
-#   weight = 5
+[[menu.main]]
+name = "Servicios Adicionales"
+url = "#serviciosAdicionales"
+parent = "servicios"
+weight = 2
 
 [[menu.main]]
 name = "Testimonios"
