@@ -3,7 +3,7 @@ title: "¿Qué es el CUE? Requisitos y Guía para tramitarlo"
 date: 2021-09-18T16:12:00Z
 featureImage: images/allpost/que-es-el-cue.png
 postImage: images/allpost/que-es-el-cue.png
-tags: CUE,
+tags: CUE
 categories: tramites
 ---
 

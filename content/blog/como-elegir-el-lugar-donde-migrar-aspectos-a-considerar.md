@@ -4,7 +4,7 @@ date: 2021-12-16T23:00:00Z
 featureImage: images/allpost/mejor-lugar-para-migrar.png
 postImage: images/allpost/mejor-lugar-para-migrar.png
 tags: 
-categories: 
+categories: tips
 ---
 
 Hola todos! Hoy traigo este posteo qué quería compartir con ustedes.

@@ -4,7 +4,7 @@ date: 2021-12-17T11:30:00Z
 featureImage: images/allpost/como-tramitar-empadronamiento.png
 postImage: images/allpost/como-tramitar-empadronamiento.png
 Tags: 
-categories:
+categories: tramites
 ---
 
 Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio donde reside habitualmente.
