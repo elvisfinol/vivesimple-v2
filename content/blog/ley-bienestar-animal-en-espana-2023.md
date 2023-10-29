@@ -51,4 +51,4 @@ Esta nueva legislación de bienestar animal en España introduce cambios signifi
 
 ### Ver video completo en YouTube 👇🏻
 
-[![Nueva Ley de Bienestar Animal España 2023 | Todo lo que tenés que saber](https://img.youtube.com/vi/2RlvK0BT6ig/mqdefault.jpg)](https://www.youtube.com/watch?v=2RlvK0BT6ig)
+[![Nueva Ley de Bienestar Animal España 2023 | Todo lo que tenés que saber](https://img.youtube.com/vi/2RlvK0BT6ig/hqdefault.jpg)](https://www.youtube.com/watch?v=2RlvK0BT6ig)
