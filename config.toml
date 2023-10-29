@@ -80,6 +80,11 @@ weight = 7
     url = "/categories/tips/"
     parent = "blog"
     weight = 7
+ [[menu.main]]
+    name = "Vida en España 🇪🇸"
+    url = "/categories/españa/"
+    parent = "blog"
+    weight = 7
 
 [[menu.main]]
 identifier = "tienda"

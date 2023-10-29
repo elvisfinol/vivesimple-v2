@@ -4,7 +4,7 @@ date: 2023-10-15T12:30:00Z
 featureImage: images/allpost/ley-bienestar-animal-espana-2023.jpeg
 postImage: images/allpost/ley-bienestar-animal-espana-2023.jpeg
 Tags: 
-categories: tramites
+categories: España
 ---
 
 Si eres residente en España y tienes una mascota, este artículo te resultará de gran interés. Hablaremos de la recién implementada Ley de Bienestar Animal, la cual entró en vigor el pasado 29 de septiembre y trae consigo una serie de regulaciones, sanciones y novedades que son de suma relevancia para quienes tienen compañeros animales en este país.
