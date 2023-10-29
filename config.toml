@@ -62,17 +62,17 @@ weight = 7
     weight = 6
  [[menu.main]]
     name = "Trámites"
-    url = ""
+    url = "/categories/tramites"
     parent = "blog"
     weight = 7
  [[menu.main]]
     name = "Turismo ✈️"
-    url = ""
+    url = "/categories/turismo"
     parent = "blog"
     weight = 7
  [[menu.main]]
     name = "Lifestyle ⛱️ "
-    url = ""
+    url = "/categories/lifestyle/"
     parent = "blog"
     weight = 7
  [[menu.main]]
