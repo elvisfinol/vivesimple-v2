@@ -55,7 +55,7 @@ service:
           - Seguimiento por WhatsApp para consultas
 
 
-      ***Precio: 30 euros***
+      ***Precio a consultar ↓***
 
     image: images/service/branding.svg
 
@@ -70,7 +70,7 @@ service:
           - Videollamada de 30 minutos
 
 
-      ***Precio: 15 euros***
+      ***Precio a consultar ↓***
 
     image: images/service/branding.svg
 
@@ -92,7 +92,7 @@ service:
             - Seguimiento por WhatsApp 
 
 
-       ***Precio: 75 euros***
+       ***Precio a consultar ↓***
 
     image: images/service/branding.svg
 
@@ -112,7 +112,7 @@ service:
            - Videollamada 1 hora: para tratar temas/dudas principales de cada uno 
            - Informe - síntesis información general 
 
-      ***Precio: 35 euros***
+      ***Precio a consultar ↓***
 
     image: images/service/branding.svg
 
@@ -126,7 +126,7 @@ service:
       - Videollamada 45 minutos 
       
 
-      ***Precio: 25 euros***
+      ***Precio a consultar ↓***
 
     image: images/service/branding.svg
 
@@ -143,7 +143,7 @@ service:
 
         - Informe con información general y un resumen personalizado de lo conversado. 
 
-      ***Precio: 35 euros***
+      ***Precio a consultar ↓***
       
       - ***Itinerario y recorrido personalizado Madrid***
         - Descubre Madrid a tu Manera: Diseñamos tu itinerario basado en tus días disponibles y gustos personales.
@@ -157,7 +157,7 @@ service:
         
         - Informe con información general y un resumen personalizado de lo conversado. 
 
-      ***Precio: 25 euros***
+      ***Precio a consultar ↓***
 
     image: images/service/branding.svg
     

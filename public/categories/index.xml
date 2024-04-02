@@ -2,55 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Vive Simple</title>
-    <link>https://vivesimple.me/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Vive Simple</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Oct 2023 12:30:00 +0000</lastBuildDate><atom:link href="https://vivesimple.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Oct 2023 12:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>España</title>
-      <link>https://vivesimple.me/categories/espa%C3%B1a/</link>
+      <link>http://localhost:1313/categories/espa%C3%B1a/</link>
       <pubDate>Sun, 15 Oct 2023 12:30:00 +0000</pubDate>
-      
-      <guid>https://vivesimple.me/categories/espa%C3%B1a/</guid>
+      <guid>http://localhost:1313/categories/espa%C3%B1a/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tramites</title>
-      <link>https://vivesimple.me/categories/tramites/</link>
+      <title>Tramites</title>
+      <link>http://localhost:1313/categories/tramites/</link>
       <pubDate>Mon, 25 Jul 2022 18:00:00 +0000</pubDate>
-      
-      <guid>https://vivesimple.me/categories/tramites/</guid>
+      <guid>http://localhost:1313/categories/tramites/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tips</title>
-      <link>https://vivesimple.me/categories/tips/</link>
+      <title>Tips</title>
+      <link>http://localhost:1313/categories/tips/</link>
       <pubDate>Thu, 16 Dec 2021 23:00:00 +0000</pubDate>
-      
-      <guid>https://vivesimple.me/categories/tips/</guid>
+      <guid>http://localhost:1313/categories/tips/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>turismo</title>
-      <link>https://vivesimple.me/categories/turismo/</link>
+      <title>Turismo</title>
+      <link>http://localhost:1313/categories/turismo/</link>
       <pubDate>Thu, 26 Aug 2021 10:45:00 +0000</pubDate>
-      
-      <guid>https://vivesimple.me/categories/turismo/</guid>
+      <guid>http://localhost:1313/categories/turismo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>lifestyle</title>
-      <link>https://vivesimple.me/categories/lifestyle/</link>
+      <title>Lifestyle</title>
+      <link>http://localhost:1313/categories/lifestyle/</link>
       <pubDate>Thu, 19 Aug 2021 09:45:00 +0000</pubDate>
-      
-      <guid>https://vivesimple.me/categories/lifestyle/</guid>
+      <guid>http://localhost:1313/categories/lifestyle/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
