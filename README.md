@@ -1,2 +1,2 @@
 # Hi Everyone!
-Check out our Vive Simple [Website](https://jazzy-bienenstitch-c301bd.netlify.app/)!
+Check out our Vive Simple [Website](https://vivesimple.me)!
