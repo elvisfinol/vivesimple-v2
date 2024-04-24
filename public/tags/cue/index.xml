@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CUE on Vive Simple</title>
-    <link>http://localhost:1313/tags/cue/</link>
+    <link>https://vivesimple.me/tags/cue/</link>
     <description>Recent content in CUE on Vive Simple</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Sep 2021 16:12:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cue/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vivesimple.me/tags/cue/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Qué es el CUE? Requisitos y Guía para tramitarlo</title>
-      <link>http://localhost:1313/blog/que-es-el-cue-requisitos-y-guia-para-tramitarlo/</link>
+      <link>https://vivesimple.me/blog/que-es-el-cue-requisitos-y-guia-para-tramitarlo/</link>
       <pubDate>Sat, 18 Sep 2021 16:12:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/que-es-el-cue-requisitos-y-guia-para-tramitarlo/</guid>
+      <guid>https://vivesimple.me/blog/que-es-el-cue-requisitos-y-guia-para-tramitarlo/</guid>
       <description>Si eres CIUDADANO COMUNITARIO no español (ciudadano nacional de algún país de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo o de la Confederación Suiza) para residir y trabajar es España por más de 90 días, es obligatorio tramitar el CUE, es decir, Certificado de Registro de la Unión Europea.&#xA;CUE es una tarjeta de color verde (mal llamado NIE Verde), que acredita la inscripción en el Registro Central de Extranjeros de los ciudadanos de un Estado Comunitario, para quienes van a residir en España por un periodo superior a tres meses.</description>
     </item>
   </channel>

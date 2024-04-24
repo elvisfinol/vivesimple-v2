@@ -2,45 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tramites on Vive Simple</title>
-    <link>http://localhost:1313/categories/tramites/</link>
+    <link>https://vivesimple.me/categories/tramites/</link>
     <description>Recent content in Tramites on Vive Simple</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Jul 2022 18:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/tramites/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vivesimple.me/categories/tramites/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RESIDENCIA FAMILIAR COMUNITARIO - ¿Quién puede realizarla y cómo se tramita?</title>
-      <link>http://localhost:1313/blog/residencia-familiar-comunitario-quien-puede-realizarla-y-como-se-tramita/</link>
+      <link>https://vivesimple.me/blog/residencia-familiar-comunitario-quien-puede-realizarla-y-como-se-tramita/</link>
       <pubDate>Mon, 25 Jul 2022 18:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/residencia-familiar-comunitario-quien-puede-realizarla-y-como-se-tramita/</guid>
+      <guid>https://vivesimple.me/blog/residencia-familiar-comunitario-quien-puede-realizarla-y-como-se-tramita/</guid>
       <description>¿QUIÉNES PUEDEN TRAMITARLA?&#xA;1- HIJO DIRECTO del ciudadano de la Unión o del Espacio Económico Europeo o de su cónyuge o pareja registrada, siempre que sea menor de veintiún años, o mayor de dicha edad que viva a su cargo, o sea incapaz.&#xA;2- CÓNYUGE casado legalmente / PAREJA REGISTRADA en España / PAREJA NO REGISTRADA en España (con hijos en común o pruebas suficientes de convivencia por más de 1 año).</description>
     </item>
     <item>
       <title>EMPADRONAMIENTO ¿Qué es? ¿Cómo se tramita en Madrid?</title>
-      <link>http://localhost:1313/blog/empadronamiento-que-es-como-se-tramita-en-madrid/</link>
+      <link>https://vivesimple.me/blog/empadronamiento-que-es-como-se-tramita-en-madrid/</link>
       <pubDate>Fri, 17 Dec 2021 11:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/empadronamiento-que-es-como-se-tramita-en-madrid/</guid>
+      <guid>https://vivesimple.me/blog/empadronamiento-que-es-como-se-tramita-en-madrid/</guid>
       <description>Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio donde reside habitualmente.&#xA;Quien viva en más de un municipio se inscribirá únicamente en el que resida durante más tiempo al año.&#xA;Cuando se produzca un cambio de domicilio dentro del término municipal, el interesado debe solicitar la realización de dicho cambio en el Padrón.&#xA;Los menores de edad no emancipados y los mayores incapacitados deben figurar empadronados en el domicilio de los padres que tengan su guarda o custodia, o representantes legales.</description>
     </item>
     <item>
       <title>¿Qué es el CUE? Requisitos y Guía para tramitarlo</title>
-      <link>http://localhost:1313/blog/que-es-el-cue-requisitos-y-guia-para-tramitarlo/</link>
+      <link>https://vivesimple.me/blog/que-es-el-cue-requisitos-y-guia-para-tramitarlo/</link>
       <pubDate>Sat, 18 Sep 2021 16:12:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/que-es-el-cue-requisitos-y-guia-para-tramitarlo/</guid>
+      <guid>https://vivesimple.me/blog/que-es-el-cue-requisitos-y-guia-para-tramitarlo/</guid>
       <description>Si eres CIUDADANO COMUNITARIO no español (ciudadano nacional de algún país de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo o de la Confederación Suiza) para residir y trabajar es España por más de 90 días, es obligatorio tramitar el CUE, es decir, Certificado de Registro de la Unión Europea.&#xA;CUE es una tarjeta de color verde (mal llamado NIE Verde), que acredita la inscripción en el Registro Central de Extranjeros de los ciudadanos de un Estado Comunitario, para quienes van a residir en España por un periodo superior a tres meses.</description>
     </item>
     <item>
-      <title>XXX</title>
-      <link>http://localhost:1313/blog/_draft/</link>
-      <pubDate>Sat, 18 Sep 2021 16:12:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/_draft/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>DNI, NIE, CUE, TIE. Diferencias, ¿Cuál debo tramitar?</title>
-      <link>http://localhost:1313/blog/dni-nie-cue-tie-diferencias/</link>
+      <link>https://vivesimple.me/blog/dni-nie-cue-tie-diferencias/</link>
       <pubDate>Sat, 14 Aug 2021 16:26:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/dni-nie-cue-tie-diferencias/</guid>
+      <guid>https://vivesimple.me/blog/dni-nie-cue-tie-diferencias/</guid>
       <description>Si estás pensando en emigrar a España, y comenzaste a buscar información sobre los trámites, seguro más de una vez te encontraste alguna de esta siglas y probablemente te parece todo una confusión, al menos así me paso a mi al principio. Por eso voy a intentar aclarar estos términos para facilitarte entender, según tu situación personal, que deberías tramitar vos.&#xA;DNI:&#xA;Como en Argentina, en España al documento de identidad de sus ciudadanos, le llaman DNI.</description>
     </item>
   </channel>

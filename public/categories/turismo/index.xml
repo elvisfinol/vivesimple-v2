@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Turismo on Vive Simple</title>
-    <link>http://localhost:1313/categories/turismo/</link>
+    <link>https://vivesimple.me/categories/turismo/</link>
     <description>Recent content in Turismo on Vive Simple</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Aug 2021 10:45:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/turismo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vivesimple.me/categories/turismo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Turismo - Castilla-La Mancha: Toledo</title>
-      <link>http://localhost:1313/blog/turismo-castilla-la-mancha-toledo/</link>
+      <link>https://vivesimple.me/blog/turismo-castilla-la-mancha-toledo/</link>
       <pubDate>Thu, 26 Aug 2021 10:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/turismo-castilla-la-mancha-toledo/</guid>
+      <guid>https://vivesimple.me/blog/turismo-castilla-la-mancha-toledo/</guid>
       <description>Es una antigua ciudad ubicada en una colina rodeada por el río Tajo, sobre las llanuras de Castilla-La Mancha en España central. Supo ser la Capital del Reino de Castilla, hasta que fue trasladada a Madrid en 1562. Actualmente es la ciudad capital de la Comunidad de Castilla y la Mancha. Toledo ofrece entre sus murallas una espectacular muestra de la historia y arte español. Todos los pueblos que llegaron a la Península Ibérica desde la prehistoria -romanos, visigodos, musulmanes, judíos y cristianos- han dejado huella de su cultura en esta ciudad, haciéndola merecedora de ser declarada Patrimonio de la Humanidad por la UNESCO en 1986.</description>
     </item>
     <item>
       <title>Turismo - Madrid: Palacio de Cibeles</title>
-      <link>http://localhost:1313/blog/turismo-palacio-cibeles/</link>
+      <link>https://vivesimple.me/blog/turismo-palacio-cibeles/</link>
       <pubDate>Sat, 14 Aug 2021 17:26:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/turismo-palacio-cibeles/</guid>
+      <guid>https://vivesimple.me/blog/turismo-palacio-cibeles/</guid>
       <description>Turismo - Madrid: Palacio de Cibeles El Palacio de Cibeles o antiguo Palacio de las Comunicaciones es un edificio monumental, ubicado frente a la Plaza de Cibeles en el centro de Madrid.&#xA;Proyectado y construido por Antonio Palacios y Joaquín Otamendi como sede de la Oficina de Correos de España, fue inaugurado en 1909. En 1993 fue declarado un Bien de Interés Cultural en la categoría de Monumento. Y desde el 2007 funciona como sede del Ayuntamiento de Madrid.</description>
     </item>
   </channel>

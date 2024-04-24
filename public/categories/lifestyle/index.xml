@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lifestyle on Vive Simple</title>
-    <link>http://localhost:1313/categories/lifestyle/</link>
+    <link>https://vivesimple.me/categories/lifestyle/</link>
     <description>Recent content in Lifestyle on Vive Simple</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Aug 2021 09:45:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vivesimple.me/categories/lifestyle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Piscinas Públicas en Madrid ⛱️</title>
-      <link>http://localhost:1313/blog/piscinas-publicas/</link>
+      <link>https://vivesimple.me/blog/piscinas-publicas/</link>
       <pubDate>Thu, 19 Aug 2021 09:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/piscinas-publicas/</guid>
+      <guid>https://vivesimple.me/blog/piscinas-publicas/</guid>
       <description>Madrid ¿Qué hacer en Madrid en Verano?&#xA;Es la pregunta que muchos nos hacemos. No solo porque por momentos parece una ciudad fantasma, vacía y silenciosa por el éxodo vacacional de julio y agosto. Sino y fundamentalmente porque hay que buscar planes compatibles con los 40 grados de calor abrumador que visitan la ciudad por estos días. 🥵&#xA;Por eso una gran opción es disfrutar de la extensa variedad de piscinas públicas que la Comunidad de Madrid ofrece.</description>
     </item>
   </channel>
