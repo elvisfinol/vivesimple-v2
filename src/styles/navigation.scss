@@ -1,0 +1,101 @@
+// Navbar toggler: when the nav-toggle input is checked, 
+// this hides the "show" button and displays the "hide" button.
+input#nav-toggle:checked + label #show-button {
+  @apply hidden;
+}
+
+input#nav-toggle:checked + label #hide-button {
+  @apply block;
+}
+
+// Navbar menu: when the nav-toggle input is checked, 
+// this displays the navigation menu.
+input#nav-toggle:checked ~ #nav-menu {
+  @apply block;
+}
+
+// Header styling: sets the background color and padding. 
+// Adjusts for dark mode as well.
+.header {
+  @apply bg-white py-6 dark:bg-darkmode-body;
+}
+
+// Navbar container: makes the navbar a flex container and 
+// centers the content both vertically and horizontally.
+.navbar {
+  @apply relative flex flex-wrap items-center justify-between;
+}
+
+// Navbar brand: styles the brand name with a specific font size, 
+// font weight, and adjusts text color for dark mode. 
+// Images are restricted to max height and width.
+.navbar-brand {
+  @apply text-xl font-semibold text-dark dark:text-darkmode-dark;
+  
+  image {
+    @apply max-h-full max-w-full;
+  }
+}
+
+// Navbar links container: ensures the items are centered 
+// in smaller screens and aligned left on larger screens.
+.navbar-nav {
+  @apply text-center lg:text-left;
+}
+
+// Navbar link: applies padding, text color, hover effects, 
+// and transitions. It adjusts for dark mode as well.
+.nav-link {
+  @apply text-black hover:text-red-400 dark:text-darkmode-dark dark:hover:text-darkmode-primary block p-3 font-semibold transition lg:px-2 lg:py-3;
+}
+
+// Navbar dropdown wrapper: adjusts the margin-right.
+.nav-dropdown {
+  @apply mr-0;
+}
+
+// Dropdown list: styles the dropdown menu with background colors, 
+// shadows, and padding, considering dark mode.
+.nav-dropdown-list {
+  @apply z-10 min-w-[180px] rounded bg-body p-4 shadow dark:bg-darkmode-body;
+}
+
+// Dropdown item: styles individual items in the dropdown with margin bottom.
+.nav-dropdown-item {
+  @apply mb-2;
+}
+
+// Dropdown link: styles each link in the dropdown with padding, 
+// text color, hover effects, and a transition. Adjusts for dark mode.
+.nav-dropdown-link {
+  @apply block py-1 font-semibold text-dark transition hover:text-primary dark:text-darkmode-text dark:hover:text-darkmode-primary;
+}
+
+// Theme switcher: container for theme switch with a toggle button. 
+// Uses inline-flex to keep elements in a row.
+.theme-switcher {
+  @apply inline-flex;
+
+  // Label: the actual switch UI is styled as a rounded block.
+  label {
+    @apply relative inline-block h-4 w-6 cursor-pointer rounded-2xl bg-border lg:w-10;
+  }
+
+  // Input: hides the default checkbox to allow custom styling.
+  input {
+    @apply absolute opacity-0;
+  }
+
+  // Span: the round button on the switch, which changes position on toggle.
+  span {
+    @apply absolute -top-1 left-0 flex h-6 w-6 items-center justify-center rounded-full bg-dark transition-all duration-300 dark:bg-white;
+  }
+
+  // Input checked state: when the switch is toggled (checked), 
+  // the round button moves to the right on larger screens.
+  input:checked + label {
+    span {
+      @apply lg:left-4;
+    }
+  }
+}
