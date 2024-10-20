@@ -6,7 +6,7 @@
       "url": "/",
       "hasChildren": true,
       "children": [
-        { "name": "Guías Digitales", "url": "/∫" }
+        { "name": "Guías Digitales", "url": "/" }
       ]
     },
     {
@@ -14,9 +14,9 @@
       "url": "",
       "hasChildren": true,
       "children": [
-        { "name": "Asesoría Migratoria General", "url": "" },
-        { "name": "Asesoría Migratoria Express", "url": "" },
-        { "name": "Guía Trámite Paso a Paso", "url": "" }
+        { "name": "Asesoría Migratoria General", "url": "/asesoria-migratoria-general" },
+        { "name": "Asesoría Migratoria Express", "url": "/asesoria-migratoria-express" },
+        { "name": "Guía Trámite Paso a Paso", "url": "/guia-tramite-paso-a-paso" }
       ]
     },
     { "name": "Contacto", "url": "/contact" },

@@ -17,7 +17,7 @@ input#nav-toggle:checked ~ #nav-menu {
 // Header styling: sets the background color and padding. 
 // Adjusts for dark mode as well.
 .header {
-  @apply bg-white py-2;
+  @apply bg-slate-200 py-10;
 }
 
 // Navbar container: makes the navbar a flex container and 
@@ -30,7 +30,7 @@ input#nav-toggle:checked ~ #nav-menu {
 // font weight, and adjusts text color for dark mode. 
 // Images are restricted to max height and width.
 .navbar-brand {
-  @apply text-xl font-semibold text-dark;
+  @apply text-xl font-semibold text-white;
   
   image {
     @apply h-16 w-auto;
@@ -68,7 +68,7 @@ input#nav-toggle:checked ~ #nav-menu {
 // Dropdown link: styles each link in the dropdown with padding, 
 // text color, hover effects, and a transition. Adjusts for dark mode.
 .nav-dropdown-link {
-  @apply block py-1 font-semibold text-dark transition hover:text-primary dark:text-darkmode-text dark:hover:text-darkmode-primary;
+  @apply block py-1 font-semibold text-black transition;
 }
 
 // Theme switcher: container for theme switch with a toggle button. 
