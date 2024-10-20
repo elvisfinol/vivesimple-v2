@@ -9,6 +9,7 @@ import Testimonial from "@/partials/Testimonial.astro";
 import type { Feature } from "@/types";
 import type { ContentEntryMap } from "astro:content";
 import { FaCheck } from "react-icons/fa";
+import Accordion from "@/shortcodes/Accordion"
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -35,6 +36,10 @@ const call_to_action = await getSinglePage(
 ---
 
 <Base>
+
+  
+  
+  
   <!-- Banner -->
   <section class="section pt-14">
     <div class="container">
@@ -78,8 +83,72 @@ const call_to_action = await getSinglePage(
   </section>
   <!-- /Banner -->
 
+
+  <section class="py-12 bg-white">
+    <div class="container mx-auto px-6 text-center">
+      <h2 class="text-3xl font-bold text-gray-800 mb-8">Our Services</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        
+        <!-- Service 1 -->
+        <div class="p-6 border border-gray-200 rounded-lg hover:shadow-lg transition-shadow">
+          <div class="mb-4">
+            <img class="h-12 mx-auto" src="https://via.placeholder.com/50" alt="Service 1 Icon">
+          </div>
+          <h3 class="text-xl font-semibold text-gray-800">Service One</h3>
+          <p class="mt-2 text-gray-600">Brief description of the service goes here. Keep it simple and concise.</p>
+        </div>
+        
+        <!-- Service 2 -->
+        <div class="p-6 border border-gray-200 rounded-lg hover:shadow-lg transition-shadow">
+          <div class="mb-4">
+            <img class="h-12 mx-auto" src="https://via.placeholder.com/50" alt="Service 2 Icon">
+          </div>
+          <h3 class="text-xl font-semibold text-gray-800">Service Two</h3>
+          <p class="mt-2 text-gray-600">Brief description of the service goes here. Keep it simple and concise.</p>
+        </div>
+  
+        <!-- Service 3 -->
+        <div class="p-6 border border-gray-200 rounded-lg hover:shadow-lg transition-shadow">
+          <div class="mb-4">
+            <img class="h-12 mx-auto" src="https://via.placeholder.com/50" alt="Service 3 Icon">
+          </div>
+          <h3 class="text-xl font-semibold text-gray-800">Service Three</h3>
+          <p class="mt-2 text-gray-600">Brief description of the service goes here. Keep it simple and concise.</p>
+        </div>
+  
+        <!-- Service 4 -->
+        <div class="p-6 border border-gray-200 rounded-lg hover:shadow-lg transition-shadow">
+          <div class="mb-4">
+            <img class="h-12 mx-auto" src="https://via.placeholder.com/50" alt="Service 4 Icon">
+          </div>
+          <h3 class="text-xl font-semibold text-gray-800">Service Four</h3>
+          <p class="mt-2 text-gray-600">Brief description of the service goes here. Keep it simple and concise.</p>
+        </div>
+  
+        <!-- Service 5 -->
+        <div class="p-6 border border-gray-200 rounded-lg hover:shadow-lg transition-shadow">
+          <div class="mb-4">
+            <img class="h-12 mx-auto" src="https://via.placeholder.com/50" alt="Service 5 Icon">
+          </div>
+          <h3 class="text-xl font-semibold text-gray-800">Service Five</h3>
+          <p class="mt-2 text-gray-600">Brief description of the service goes here. Keep it simple and concise.</p>
+        </div>
+  
+        <!-- Service 6 -->
+        <div class="p-6 border border-gray-200 rounded-lg hover:shadow-lg transition-shadow">
+          <div class="mb-4">
+            <img class="h-12 mx-auto" src="https://via.placeholder.com/50" alt="Service 6 Icon">
+          </div>
+          <h3 class="text-xl font-semibold text-gray-800">Service Six</h3>
+          <p class="mt-2 text-gray-600">Brief description of the service goes here. Keep it simple and concise.</p>
+        </div>
+  
+      </div>
+    </div>
+  </section>
+
   <!-- Features -->
-  {
+  <!-- {
     features.map((feature: Feature, index: number) => (
       <section class={`section-sm ${index % 2 === 0 && "bg-gradient"}`}>
         <div class="container">
@@ -116,9 +185,51 @@ const call_to_action = await getSinglePage(
         </div>
       </section>
     ))
-  }
+  } -->
   <!-- /Features -->
 
-  <!-- <Testimonial testimonial={testimonial[0]} />
-  <CallToAction call_to_action={call_to_action[0]} /> -->
+  <section class="py-12 w-fit flex flex-col justify-center mx-auto">
+
+    <div class="container mx-auto px-6 text-center">
+
+      <h2 class="text-3xl font-bold text-gray-800 mb-8">Preguntas Frecuentes</h2>
+
+  
+  <Accordion client:load title="1. Should you use Negative margin?">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, iste distinctio, eveniet eius soluta ratione cumque esse eum maiores alias, quam quia qui repudiandae iure vitae perspiciatis? Iusto, sed eos.
+    </Accordion>
+
+    <Accordion client:load title="2. Should you use Negative margin?">
+      - This is a thing.
+      - This is a thing.
+      - This is a thing.
+      - This is a thing.
+      - This is a thing.
+      
+      </Accordion>
+
+
+      <Accordion client:load title="3. Should you use Negative margin?">
+        - This is a thing.
+        - This is a thing.
+        - This is a thing.
+        - This is a thing.
+        - This is a thing.
+        </Accordion>
+
+        <Accordion client:load title="4. Should you use Negative margin?">
+          - This is a thing.
+          - This is a thing.
+          - This is a thing.
+          - This is a thing.
+          - This is a thing.
+          </Accordion>
+          
+        </div>
+
+    </section>
+
+
+  <Testimonial testimonial={testimonial[0]} />
+  <CallToAction call_to_action={call_to_action[0]} />
 </Base>

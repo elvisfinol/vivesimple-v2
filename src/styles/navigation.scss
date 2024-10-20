@@ -17,7 +17,7 @@ input#nav-toggle:checked ~ #nav-menu {
 // Header styling: sets the background color and padding. 
 // Adjusts for dark mode as well.
 .header {
-  @apply bg-white py-6 dark:bg-darkmode-body;
+  @apply bg-white py-2;
 }
 
 // Navbar container: makes the navbar a flex container and 
@@ -30,10 +30,10 @@ input#nav-toggle:checked ~ #nav-menu {
 // font weight, and adjusts text color for dark mode. 
 // Images are restricted to max height and width.
 .navbar-brand {
-  @apply text-xl font-semibold text-dark dark:text-darkmode-dark;
+  @apply text-xl font-semibold text-dark;
   
   image {
-    @apply max-h-full max-w-full;
+    @apply h-16 w-auto;
   }
 }
 
@@ -46,7 +46,7 @@ input#nav-toggle:checked ~ #nav-menu {
 // Navbar link: applies padding, text color, hover effects, 
 // and transitions. It adjusts for dark mode as well.
 .nav-link {
-  @apply text-black hover:text-red-400 dark:text-darkmode-dark dark:hover:text-darkmode-primary block p-3 font-semibold transition lg:px-2 lg:py-3;
+  @apply text-black hover:text-red-400 block p-3 font-semibold transition lg:px-2 lg:py-3;
 }
 
 // Navbar dropdown wrapper: adjusts the margin-right.
@@ -57,7 +57,7 @@ input#nav-toggle:checked ~ #nav-menu {
 // Dropdown list: styles the dropdown menu with background colors, 
 // shadows, and padding, considering dark mode.
 .nav-dropdown-list {
-  @apply z-10 min-w-[180px] rounded bg-body p-4 shadow dark:bg-darkmode-body;
+  @apply z-10 min-w-[180px] rounded bg-body p-4 shadow;
 }
 
 // Dropdown item: styles individual items in the dropdown with margin bottom.

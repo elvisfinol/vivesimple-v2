@@ -2,16 +2,25 @@
   "main": [
     { "name": "Inicio", "url": "/" },
     { "name": "Nosotros", "url": "/about" },
-    { "name": "Servicios", "url": "/servicios" },
+    { "name": "Recursos", 
+      "url": "/",
+      "hasChildren": true,
+      "children": [
+        { "name": "Guías Digitales", "url": "/∫" }
+      ]
+    },
     {
-      "name": "Recursos",
+      "name": "Asesorías",
       "url": "",
       "hasChildren": true,
       "children": [
-        { "name": "Blog", "url": "/blog" }
+        { "name": "Asesoría Migratoria General", "url": "" },
+        { "name": "Asesoría Migratoria Express", "url": "" },
+        { "name": "Guía Trámite Paso a Paso", "url": "" }
       ]
     },
-    { "name": "Contacto", "url": "/contact" }
+    { "name": "Contacto", "url": "/contact" },
+    { "name": "Blog", "url": "/blog" }
   ],
   "footer": [
     { "name": "Elements", "url": "/elements" },
