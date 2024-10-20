@@ -1,0 +1,39 @@
+---
+import ImageMod from "@/components/ImageMod.astro";
+import Base from "@/layouts/Base.astro";
+import { getListPage } from "@/lib/contentParser.astro";
+import { supportedLang } from "@/lib/utils/languageParser";
+import { markdownify } from "@/lib/utils/textConverter";
+import PageHeader from "@/partials/PageHeader.astro";
+import type { ContentEntryMap } from "astro:content";
+
+export function getStaticPaths() {
+  const paths = supportedLang.map((lang) => ({
+    params: { lang: lang || undefined },
+  }));
+  return paths;
+}
+
+const { lang } = Astro.params;
+const agendar = await getListPage("agendar", lang as keyof ContentEntryMap);
+
+const { Content } = await agendar[0].render();
+const { title, description, meta_title, image } = agendar[0].data;
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+
+<PageHeader title={title} />
+<section class="section">
+    <!-- Principio del widget integrado de Calendly -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/vivesimple/consultoria-vive-simple" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Final del widget integrado de Calendly -->
+</section>
+
+</Base>

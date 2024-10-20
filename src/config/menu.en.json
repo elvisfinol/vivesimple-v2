@@ -29,7 +29,8 @@
         { "name": "Mentoría 3", "url": "/guia-tramite-paso-a-paso" }
       ]
     },
-    { "name": "Contacto", "url": "/contact" }
+    { "name": "Contacto", "url": "/contact" },
+    { "name": "Agendar Cita", "url": "/agendar" }
   ],
   "footer": [
     { "name": "Elements", "url": "/elements" },
