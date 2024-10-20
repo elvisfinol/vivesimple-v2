@@ -19,8 +19,17 @@
         { "name": "Guía Trámite Paso a Paso", "url": "/guia-tramite-paso-a-paso" }
       ]
     },
-    { "name": "Contacto", "url": "/contact" },
-    { "name": "Blog", "url": "/blog" }
+    {
+      "name": "Mentorías Laborales",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        { "name": "Mentoría 1", "url": "/asesoria-migratoria-general" },
+        { "name": "Mentoría 2", "url": "/asesoria-migratoria-express" },
+        { "name": "Mentoría 3", "url": "/guia-tramite-paso-a-paso" }
+      ]
+    },
+    { "name": "Contacto", "url": "/contact" }
   ],
   "footer": [
     { "name": "Elements", "url": "/elements" },
