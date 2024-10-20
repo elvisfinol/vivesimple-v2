@@ -14,7 +14,7 @@ html {
 }
 
 body {
-  @apply bg-white  font-primary font-normal leading-relaxed text-text;
+  @apply bg-gradient-to-r from-slate-200 to-slate-100  font-primary font-normal leading-relaxed text-text;
   font-family: 'Comfortaa Variable'; /* New primary font */
 }
 

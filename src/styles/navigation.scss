@@ -17,7 +17,7 @@ input#nav-toggle:checked ~ #nav-menu {
 // Header styling: sets the background color and padding. 
 // Adjusts for dark mode as well.
 .header {
-  @apply bg-slate-200 py-10;
+  @apply py-10 backdrop-blur-sm;
 }
 
 // Navbar container: makes the navbar a flex container and 
