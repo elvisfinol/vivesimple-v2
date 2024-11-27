@@ -6,7 +6,7 @@ title: "Acerca de mí"
   <br/><br/>
 
   Soy Mica, una apasionada viajera, migrante, profesional multifacética, creadora de contenido y emprendedora. 
-  Argentina e Italiana, viviendo en la ciudad de Madrid, España.📍
+  Argentina e Italiana, viviendo en la ciudad de Madrid, España! 📍
 
   
   🌟 Mi historia de emigración comenzó hace más de 2 años ya. Según nuestros planes, sería en abril de 2020, pero
